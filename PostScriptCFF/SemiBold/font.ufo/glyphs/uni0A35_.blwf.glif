@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A35.blwf" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="_blwm"/>
+    </contour>
+    <contour>
+      <point x="8" y="-327" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="-8" y="-301" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="85" y="-323" type="curve"/>
+      <point x="74" y="-265" type="line"/>
+      <point x="51" y="-269"/>
+      <point x="26" y="-274"/>
+      <point x="3" y="-274" type="curve" smooth="yes"/>
+      <point x="-36.2461902703" y="-274.0"/>
+      <point x="-68.646765204" y="-263.351265032"/>
+      <point x="-76.29077" y="-223.99873" type="curve"/>
+      <point x="-76" y="-224.0" type="line" smooth="yes"/>
+      <point x="66" y="-224.0" type="line"/>
+      <point x="68" y="-176.0" type="line"/>
+      <point x="-81" y="-176.0" type="line" smooth="yes"/>
+      <point x="-103" y="-176"/>
+      <point x="-114" y="-163"/>
+      <point x="-114" y="-151" type="curve" smooth="yes"/>
+      <point x="-114" y="-139"/>
+      <point x="-104" y="-126"/>
+      <point x="-82" y="-126" type="curve" smooth="yes"/>
+      <point x="86" y="-126.0" type="line"/>
+      <point x="86" y="-62.0" type="line"/>
+      <point x="-109.0" y="-62.0" type="line" smooth="yes"/>
+      <point x="-165" y="-62"/>
+      <point x="-195" y="-96"/>
+      <point x="-195" y="-141" type="curve" smooth="yes"/>
+      <point x="-195.0" y="-174.133176503"/>
+      <point x="-172.872734778" y="-195.760175091"/>
+      <point x="-145.60477" y="-208.57474" type="curve"/>
+      <point x="-139.541824081" y="-298.16060699"/>
+      <point x="-64.6898708357" y="-334.0"/>
+      <point x="12.0" y="-334.0" type="curve" smooth="yes"/>
+      <point x="37" y="-334"/>
+      <point x="62" y="-330"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 15:21:09</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A3E" format="1">
+  <advance width="286"/>
+  <unicode hex="0A3E"/>
+  <outline>
+    <contour>
+      <point x="140" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="140" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="140" y="670" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="204" y="271" type="line"/>
+      <point x="204" y="579" type="line"/>
+      <point x="286" y="579" type="line"/>
+      <point x="286" y="689" type="line"/>
+      <point x="0" y="689" type="line"/>
+      <point x="0" y="579" type="line"/>
+      <point x="76" y="579" type="line"/>
+      <point x="76" y="271" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 15:07:15</string>
+    </dict>
+  </lib>
+</glyph>

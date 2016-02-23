@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A09" format="1">
+  <advance width="619"/>
+  <unicode hex="0A09"/>
+  <outline>
+    <contour>
+      <point x="610" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="700" y="650" type="move" name="abvm_candra"/>
+    </contour>
+    <component base="uni0A73"/>
+    <component base="uni0A41" xOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/04 22:36:19</string>
+    </dict>
+  </lib>
+</glyph>

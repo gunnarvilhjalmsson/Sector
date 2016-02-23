@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A1A" format="1">
+  <advance width="746"/>
+  <unicode hex="0A1A"/>
+  <outline>
+    <contour>
+      <point x="554" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="458" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="554" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="468" y="30" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="584" y="670" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="458.0" y="-17.0" type="curve" smooth="yes"/>
+      <point x="573" y="-17"/>
+      <point x="683" y="46"/>
+      <point x="683" y="181" type="curve"/>
+      <point x="683" y="541" type="line"/>
+      <point x="746.0" y="541" type="line"/>
+      <point x="746.0" y="693" type="line"/>
+      <point x="0" y="693" type="line"/>
+      <point x="0" y="541" type="line"/>
+      <point x="486.0" y="541" type="line"/>
+      <point x="486.0" y="422.0" type="line"/>
+      <point x="288.33684" y="422.0" type="line"/>
+      <point x="236.814290805" y="463.867649759"/>
+      <point x="123.588563857" y="464.369794837"/>
+      <point x="44.0" y="453.0" type="curve"/>
+      <point x="15.0" y="309" type="line"/>
+      <point x="46.5504950666" y="288.423590174"/>
+      <point x="83.3280103966" y="276.62857439"/>
+      <point x="120.26559" y="271.23627" type="curve"/>
+      <point x="136.854332433" y="108.082023325"/>
+      <point x="313.289017" y="-17.0"/>
+    </contour>
+    <contour>
+      <point x="433" y="138" type="curve" smooth="yes"/>
+      <point x="362.970638208" y="138.0"/>
+      <point x="322.126625631" y="202.207768271"/>
+      <point x="321.02296" y="270" type="curve"/>
+      <point x="486.0" y="270" type="line"/>
+      <point x="486.0" y="206.0" type="line"/>
+      <point x="486" y="167"/>
+      <point x="481" y="138"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 17:23:42</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>da-gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>STEM-GURM</string>
+    </dict>
+  </lib>
+</glyph>

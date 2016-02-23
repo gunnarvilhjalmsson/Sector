@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A39.blwf" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="2" type="move" name="_blwm"/>
+    </contour>
+    <contour>
+      <point x="-71" y="-308" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="-72" y="-280" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="34" y="-243" type="curve"/>
+      <point x="34" y="-62" type="line"/>
+      <point x="-30" y="-62" type="line"/>
+      <point x="-29" y="-234" type="line"/>
+      <point x="-29" y="-258"/>
+      <point x="-34" y="-272"/>
+      <point x="-63" y="-272" type="curve" smooth="yes"/>
+      <point x="-107" y="-272"/>
+      <point x="-162" y="-241"/>
+      <point x="-162" y="-193" type="curve" smooth="yes"/>
+      <point x="-162" y="-167"/>
+      <point x="-146" y="-153"/>
+      <point x="-102" y="-153" type="curve"/>
+      <point x="-107" y="-98" type="line"/>
+      <point x="-186" y="-98"/>
+      <point x="-226" y="-127"/>
+      <point x="-226" y="-185" type="curve" smooth="yes"/>
+      <point x="-226" y="-274"/>
+      <point x="-132" y="-327"/>
+      <point x="-55" y="-327" type="curve" smooth="yes"/>
+      <point x="-3" y="-327"/>
+      <point x="34" y="-302"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 14:37:56</string>
+    </dict>
+  </lib>
+</glyph>

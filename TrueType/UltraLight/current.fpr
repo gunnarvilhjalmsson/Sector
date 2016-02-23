@@ -1,0 +1,7 @@
+ReleaseMode	true
+InputFontPath	./font.ttf
+FeaturePath	./features
+FontMenuDBPath	../FontMenuNameDB
+GlyphAliasDBPath	../GlyphOrderAndAliasDB
+OutputFontPath	./Sector-UltraLight.ttf
+kSetfsSelectionBitsOn	[7]

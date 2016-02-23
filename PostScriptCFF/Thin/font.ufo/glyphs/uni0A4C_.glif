@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A4C" format="1">
+  <advance width="0"/>
+  <unicode hex="0A4C"/>
+  <outline>
+    <contour>
+      <point x="0" y="670" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="189" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="240" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="240" y="670" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="-33" y="874" type="curve" smooth="yes"/>
+      <point x="58" y="874"/>
+      <point x="63" y="785"/>
+      <point x="63" y="757" type="curve"/>
+      <point x="83" y="757.0" type="line"/>
+      <point x="83.0" y="802.391260553"/>
+      <point x="68.3943771176" y="891.599389754"/>
+      <point x="-29.9961" y="893.94935" type="curve"/>
+      <point x="-30.0" y="894.0" type="line"/>
+      <point x="-31.74757" y="893.97419" type="line"/>
+      <point x="-34" y="894.0" type="line" smooth="yes"/>
+      <point x="-37.9630424224" y="894.0"/>
+      <point x="-41.7978880873" y="893.860586026"/>
+      <point x="-45.50845" y="893.54584" type="curve"/>
+      <point x="-46.2399641639" y="893.50900759"/>
+      <point x="-46.9667413042" y="893.462507644"/>
+      <point x="-47.68884" y="893.39149" type="curve"/>
+      <point x="-48.1034549963" y="893.37770929"/>
+      <point x="-48.5164864361" y="893.339538036"/>
+      <point x="-48.92794" y="893.29575" type="curve"/>
+      <point x="-150.698907215" y="885.804385285"/>
+      <point x="-158.82469059" y="818.0"/>
+      <point x="-241.0" y="818.0" type="curve" smooth="yes"/>
+      <point x="-285" y="818"/>
+      <point x="-321" y="836"/>
+      <point x="-354" y="878" type="curve"/>
+      <point x="-369.0" y="866.0" type="line"/>
+      <point x="-335" y="823"/>
+      <point x="-294" y="798"/>
+      <point x="-240" y="798" type="curve" smooth="yes"/>
+      <point x="-183.168775667" y="798.0"/>
+      <point x="-158.958276213" y="825.912579021"/>
+      <point x="-126.804" y="849.35266" type="curve"/>
+      <point x="-146.644320226" y="820.521654615"/>
+      <point x="-152.0" y="783.546086475"/>
+      <point x="-152.0" y="757.0" type="curve"/>
+      <point x="-132" y="757.0" type="line"/>
+      <point x="-132" y="780"/>
+      <point x="-127" y="874"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/22 11:52:29</string>
+    </dict>
+  </lib>
+</glyph>

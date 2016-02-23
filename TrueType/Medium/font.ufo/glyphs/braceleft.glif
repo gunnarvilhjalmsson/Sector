@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="337"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="317" y="-126.0" type="line"/>
+      <point x="317" y="-22.0" type="line"/>
+      <point x="248" y="-22"/>
+      <point x="224" y="-2"/>
+      <point x="224" y="47" type="curve" smooth="yes"/>
+      <point x="224.0" y="197.0" type="line" smooth="yes"/>
+      <point x="224.0" y="262.967671324"/>
+      <point x="204.916668046" y="295.172524575"/>
+      <point x="151.6585" y="308.68136" type="curve"/>
+      <point x="204.916668046" y="322.827475425"/>
+      <point x="224.0" y="355.032328676"/>
+      <point x="224.0" y="421.0" type="curve" smooth="yes"/>
+      <point x="224.0" y="571" type="line" smooth="yes"/>
+      <point x="224" y="619"/>
+      <point x="248" y="639"/>
+      <point x="317" y="639" type="curve"/>
+      <point x="317" y="744.0" type="line"/>
+      <point x="268" y="744.0" type="line" smooth="yes"/>
+      <point x="151" y="744"/>
+      <point x="107" y="708"/>
+      <point x="107" y="611" type="curve" smooth="yes"/>
+      <point x="107.0" y="412.0" type="line" smooth="yes"/>
+      <point x="107" y="376"/>
+      <point x="94" y="362"/>
+      <point x="65" y="362" type="curve" smooth="yes"/>
+      <point x="32" y="362.0" type="line"/>
+      <point x="32" y="255.0" type="line"/>
+      <point x="65" y="255.0" type="line" smooth="yes"/>
+      <point x="94" y="255"/>
+      <point x="107" y="241"/>
+      <point x="107" y="205" type="curve" smooth="yes"/>
+      <point x="107.0" y="5" type="line" smooth="yes"/>
+      <point x="107" y="-90"/>
+      <point x="151" y="-126"/>
+      <point x="268" y="-126" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 15:07:15</string>
+    </dict>
+  </lib>
+</glyph>

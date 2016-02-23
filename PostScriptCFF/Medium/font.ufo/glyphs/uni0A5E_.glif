@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A5E" format="1">
+  <advance width="626"/>
+  <unicode hex="0A5E"/>
+  <outline>
+    <contour>
+      <point x="447" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="352" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="447" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="361" y="30" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="69" y="-31" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="457" y="670" type="move" name="abvm"/>
+    </contour>
+    <component base="uni0A2B"/>
+    <component base="uni0A3C" xOffset="66" yOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/04 22:39:23</string>
+    </dict>
+  </lib>
+</glyph>

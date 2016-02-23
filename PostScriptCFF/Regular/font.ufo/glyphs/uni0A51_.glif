@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A51" format="1">
+  <advance width="0"/>
+  <unicode hex="0A51"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="_blwm"/>
+    </contour>
+    <contour>
+      <point x="216" y="-277" type="line"/>
+      <point x="79" y="-274"/>
+      <point x="3" y="-201"/>
+      <point x="-21" y="-70" type="curve"/>
+      <point x="-95" y="-81" type="line"/>
+      <point x="-69" y="-258"/>
+      <point x="34" y="-366"/>
+      <point x="209" y="-367" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 14:37:56</string>
+    </dict>
+  </lib>
+</glyph>

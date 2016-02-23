@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A15" format="1">
+  <advance width="684"/>
+  <unicode hex="0A15"/>
+  <outline>
+    <contour>
+      <point x="542" y="681" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="566" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="542" y="691" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="316" y="11" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="107" y="-26" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="546" y="671" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="20" type="line" smooth="yes"/>
+      <point x="622.0" y="111.220540342"/>
+      <point x="595.680563576" y="209.233193309"/>
+      <point x="547.73548" y="293.69168" type="curve"/>
+      <point x="582.947281632" y="377.056823948"/>
+      <point x="599.0" y="473.597691459"/>
+      <point x="599.0" y="560.0" type="curve" smooth="yes"/>
+      <point x="599" y="590" type="line"/>
+      <point x="685" y="590" type="line"/>
+      <point x="685" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="590" type="line"/>
+      <point x="492.0" y="590" type="line"/>
+      <point x="492.0" y="565" type="line" smooth="yes"/>
+      <point x="492" y="503"/>
+      <point x="484" y="445"/>
+      <point x="468" y="393" type="curve"/>
+      <point x="411" y="457"/>
+      <point x="332" y="493"/>
+      <point x="247" y="493" type="curve" smooth="yes"/>
+      <point x="108" y="493"/>
+      <point x="31" y="396"/>
+      <point x="31" y="291" type="curve" smooth="yes"/>
+      <point x="31" y="173"/>
+      <point x="131" y="74"/>
+      <point x="271" y="74" type="curve" smooth="yes"/>
+      <point x="361.588772911" y="74.0"/>
+      <point x="431.670276074" y="115.869009069"/>
+      <point x="482.03436" y="188.56881" type="curve"/>
+      <point x="500.011453333" y="137.457351759"/>
+      <point x="509.0" y="80.8522442128"/>
+      <point x="509.0" y="22.0" type="curve" smooth="yes"/>
+      <point x="509.0" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="270.0" y="173.0" type="curve" smooth="yes"/>
+      <point x="194" y="173"/>
+      <point x="145" y="221"/>
+      <point x="145" y="283" type="curve" smooth="yes"/>
+      <point x="145" y="346"/>
+      <point x="191" y="394"/>
+      <point x="269" y="394" type="curve" smooth="yes"/>
+      <point x="335.610067883" y="394.0"/>
+      <point x="395.559372181" y="358.198395728"/>
+      <point x="438.97161" y="294.94036" type="curve"/>
+      <point x="401.001938227" y="215.686370061"/>
+      <point x="341.359882651" y="173.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 15:01:12</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ra-gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>STEM-GURM</string>
+    </dict>
+  </lib>
+</glyph>

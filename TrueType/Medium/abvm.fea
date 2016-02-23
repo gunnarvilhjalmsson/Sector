@@ -1,0 +1,198 @@
+# Created: Tue Feb 23 01:47:58 2016
+# PS Name: Sector-Medium
+# MM Inst: Sector
+# exported from Defcon
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_abvm {
+	@bGC_uni0A0F_abvm = [uni0A0F uni0A20 uni0A28];
+	@bGC_uni0A16_abvm = [uni0A16 uni0A2A uni0A59];
+	@bGC_uni0A17_abvm = [uni0A17 uni0A5A];
+	@bGC_uni0A1C_abvm = [uni0A1C uni0A5B];
+	@bGC_uni0A1E_abvm = [uni0A1E uni0A35];
+	@bGC_uni0A21_abvm = [uni0A21 uni0A5C];
+	@bGC_uni0A24_abvm = [uni0A24 uni0A72];
+	@bGC_uni0A25_abvm = [uni0A25 uni0A27];
+	@bGC_uni0A26_abvm = [uni0A26 uni0A2E];
+	@bGC_uni0A30_abvm = [uni0A30 uni0A39];
+	@bGC_uni0A32_abvm = [uni0A32 uni0A33];
+	@bGC_uni0A36_abvm = [uni0A36 uni0A38];
+	pos base @bGC_uni0A0F_abvm <anchor 500 670> mark @MC_abvm;
+	pos base @bGC_uni0A16_abvm <anchor 519 670> mark @MC_abvm;
+	pos base @bGC_uni0A17_abvm <anchor 684 672> mark @MC_abvm;
+	pos base @bGC_uni0A1C_abvm <anchor 557 670> mark @MC_abvm;
+	pos base @bGC_uni0A1E_abvm <anchor 487 670> mark @MC_abvm;
+	pos base @bGC_uni0A21_abvm <anchor 484 670> mark @MC_abvm;
+	pos base @bGC_uni0A24_abvm <anchor 479 670> mark @MC_abvm;
+	pos base @bGC_uni0A25_abvm <anchor 529 670> mark @MC_abvm;
+	pos base @bGC_uni0A26_abvm <anchor 544 670> mark @MC_abvm;
+	pos base @bGC_uni0A30_abvm <anchor 467 670> mark @MC_abvm;
+	pos base @bGC_uni0A32_abvm <anchor 579 670> mark @MC_abvm;
+	pos base @bGC_uni0A36_abvm <anchor 555 670> mark @MC_abvm;
+	pos base dottedCircle <anchor 321 670> mark @MC_abvm;
+	pos base uni0A05 <anchor 700 679> mark @MC_abvm;
+	pos base uni0A06 <anchor 986 679> mark @MC_abvm;
+	pos base uni0A07 <anchor 767 670> mark @MC_abvm;
+	pos base uni0A08 <anchor 949 670> mark @MC_abvm;
+	pos base uni0A10 <anchor 729 679> mark @MC_abvm;
+	pos base uni0A13 <anchor 533 670> mark @MC_abvm;
+	pos base uni0A14 <anchor 700 670> mark @MC_abvm;
+	pos base uni0A15 <anchor 555 672> mark @MC_abvm;
+	pos base uni0A18 <anchor 706 670> mark @MC_abvm;
+	pos base uni0A19 <anchor 490 670> mark @MC_abvm;
+	pos base uni0A1A <anchor 556 670> mark @MC_abvm;
+	pos base uni0A1B <anchor 499 670> mark @MC_abvm;
+	pos base uni0A1D <anchor 541 670> mark @MC_abvm;
+	pos base uni0A1F <anchor 468 670> mark @MC_abvm;
+	pos base uni0A22 <anchor 551 670> mark @MC_abvm;
+	pos base uni0A23 <anchor 449 670> mark @MC_abvm;
+	pos base uni0A2B <anchor 469 670> mark @MC_abvm;
+	pos base uni0A2C <anchor 530 670> mark @MC_abvm;
+	pos base uni0A2D <anchor 483 670> mark @MC_abvm;
+	pos base uni0A2F <anchor 653 670> mark @MC_abvm;
+	pos base uni0A2F.post <anchor 380 670> mark @MC_abvm;
+	pos base uni0A3E <anchor 140 670> mark @MC_abvm;
+	pos base uni0A5E <anchor 457 670> mark @MC_abvm;
+} MARK_BASE_abvm;
+
+
+lookup MARK_BASE_abvm_bindu {
+	@bGC_uni0A09_abvm_bindu = [uni0A09 uni0A0A];
+	@bGC_uni0A16_abvm_bindu = [uni0A16 uni0A25 uni0A27 uni0A2A uni0A59];
+	@bGC_uni0A17_abvm_bindu = [uni0A17 uni0A5A];
+	@bGC_uni0A1B_abvm_bindu = [uni0A1B uni0A24];
+	@bGC_uni0A1C_abvm_bindu = [uni0A1C uni0A5B];
+	@bGC_uni0A1E_abvm_bindu = [uni0A1E uni0A35];
+	@bGC_uni0A20_abvm_bindu = [uni0A20 uni0A28];
+	@bGC_uni0A21_abvm_bindu = [uni0A21 uni0A5C];
+	@bGC_uni0A30_abvm_bindu = [uni0A30 uni0A39];
+	@bGC_uni0A32_abvm_bindu = [uni0A32 uni0A33];
+	@bGC_uni0A36_abvm_bindu = [uni0A36 uni0A38];
+	pos base @bGC_uni0A09_abvm_bindu <anchor 681 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A16_abvm_bindu <anchor 519 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A17_abvm_bindu <anchor 674 682> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A1B_abvm_bindu <anchor 489 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A1C_abvm_bindu <anchor 547 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A1E_abvm_bindu <anchor 477 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A20_abvm_bindu <anchor 500 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A21_abvm_bindu <anchor 494 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A30_abvm_bindu <anchor 457 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A32_abvm_bindu <anchor 589 680> mark @MC_abvm_bindu;
+	pos base @bGC_uni0A36_abvm_bindu <anchor 545 680> mark @MC_abvm_bindu;
+	pos base dottedCircle <anchor 321 680> mark @MC_abvm_bindu;
+	pos base uni0A05 <anchor 700 689> mark @MC_abvm_bindu;
+	pos base uni0A06 <anchor 986 689> mark @MC_abvm_bindu;
+	pos base uni0A07 <anchor 767 680> mark @MC_abvm_bindu;
+	pos base uni0A08 <anchor 949 680> mark @MC_abvm_bindu;
+	pos base uni0A0F <anchor 626 680> mark @MC_abvm_bindu;
+	pos base uni0A10 <anchor 864 680> mark @MC_abvm_bindu;
+	pos base uni0A13 <anchor 645 680> mark @MC_abvm_bindu;
+	pos base uni0A14 <anchor 700 680> mark @MC_abvm_bindu;
+	pos base uni0A15 <anchor 548 682> mark @MC_abvm_bindu;
+	pos base uni0A18 <anchor 706 680> mark @MC_abvm_bindu;
+	pos base uni0A19 <anchor 490 680> mark @MC_abvm_bindu;
+	pos base uni0A1A <anchor 546 680> mark @MC_abvm_bindu;
+	pos base uni0A1D <anchor 523 680> mark @MC_abvm_bindu;
+	pos base uni0A1F <anchor 478 680> mark @MC_abvm_bindu;
+	pos base uni0A22 <anchor 561 680> mark @MC_abvm_bindu;
+	pos base uni0A23 <anchor 449 680> mark @MC_abvm_bindu;
+	pos base uni0A26 <anchor 554 680> mark @MC_abvm_bindu;
+	pos base uni0A2B <anchor 479 680> mark @MC_abvm_bindu;
+	pos base uni0A2C <anchor 520 680> mark @MC_abvm_bindu;
+	pos base uni0A2D <anchor 493 680> mark @MC_abvm_bindu;
+	pos base uni0A2E <anchor 544 680> mark @MC_abvm_bindu;
+	pos base uni0A2F <anchor 643 680> mark @MC_abvm_bindu;
+	pos base uni0A2F.post <anchor 370 680> mark @MC_abvm_bindu;
+	pos base uni0A3E <anchor 140 680> mark @MC_abvm_bindu;
+	pos base uni0A3F <anchor 584 670> mark @MC_abvm_bindu;
+	pos base uni0A40 <anchor 283 670> mark @MC_abvm_bindu;
+	pos base uni0A5E <anchor 447 680> mark @MC_abvm_bindu;
+	pos base uni0A72 <anchor 469 680> mark @MC_abvm_bindu;
+	pos base uni0A73 <anchor 671 680> mark @MC_abvm_bindu;
+} MARK_BASE_abvm_bindu;
+
+
+lookup MARK_BASE_abvm_candra {
+	@bGC_uni0A09_abvm_candra = [uni0A09 uni0A0A];
+	@bGC_uni0A16_abvm_candra = [uni0A16 uni0A25 uni0A27 uni0A2A uni0A59];
+	@bGC_uni0A17_abvm_candra = [uni0A17 uni0A5A];
+	@bGC_uni0A1B_abvm_candra = [uni0A1B uni0A24];
+	@bGC_uni0A1C_abvm_candra = [uni0A1C uni0A5B];
+	@bGC_uni0A1E_abvm_candra = [uni0A1E uni0A35];
+	@bGC_uni0A20_abvm_candra = [uni0A20 uni0A28];
+	@bGC_uni0A21_abvm_candra = [uni0A21 uni0A5C];
+	@bGC_uni0A30_abvm_candra = [uni0A30 uni0A39];
+	@bGC_uni0A32_abvm_candra = [uni0A32 uni0A33];
+	@bGC_uni0A36_abvm_candra = [uni0A36 uni0A38];
+	pos base @bGC_uni0A09_abvm_candra <anchor 776 680> mark @MC_abvm_candra;
+	pos base @bGC_uni0A16_abvm_candra <anchor 519 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A17_abvm_candra <anchor 674 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A1B_abvm_candra <anchor 489 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A1C_abvm_candra <anchor 547 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A1E_abvm_candra <anchor 477 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A20_abvm_candra <anchor 330 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A21_abvm_candra <anchor 494 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A30_abvm_candra <anchor 457 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A32_abvm_candra <anchor 367 690> mark @MC_abvm_candra;
+	pos base @bGC_uni0A36_abvm_candra <anchor 545 690> mark @MC_abvm_candra;
+	pos base dottedCircle <anchor 321 690> mark @MC_abvm_candra;
+	pos base uni0A05 <anchor 700 699> mark @MC_abvm_candra;
+	pos base uni0A06 <anchor 986 699> mark @MC_abvm_candra;
+	pos base uni0A07 <anchor 767 690> mark @MC_abvm_candra;
+	pos base uni0A08 <anchor 1025 690> mark @MC_abvm_candra;
+	pos base uni0A0F <anchor 714 690> mark @MC_abvm_candra;
+	pos base uni0A10 <anchor 952 690> mark @MC_abvm_candra;
+	pos base uni0A13 <anchor 752 650> mark @MC_abvm_candra;
+	pos base uni0A14 <anchor 700 690> mark @MC_abvm_candra;
+	pos base uni0A15 <anchor 548 692> mark @MC_abvm_candra;
+	pos base uni0A18 <anchor 706 690> mark @MC_abvm_candra;
+	pos base uni0A19 <anchor 490 690> mark @MC_abvm_candra;
+	pos base uni0A1A <anchor 546 690> mark @MC_abvm_candra;
+	pos base uni0A1D <anchor 523 690> mark @MC_abvm_candra;
+	pos base uni0A1F <anchor 478 690> mark @MC_abvm_candra;
+	pos base uni0A22 <anchor 561 690> mark @MC_abvm_candra;
+	pos base uni0A23 <anchor 449 690> mark @MC_abvm_candra;
+	pos base uni0A26 <anchor 554 690> mark @MC_abvm_candra;
+	pos base uni0A2B <anchor 479 690> mark @MC_abvm_candra;
+	pos base uni0A2C <anchor 520 690> mark @MC_abvm_candra;
+	pos base uni0A2D <anchor 493 690> mark @MC_abvm_candra;
+	pos base uni0A2E <anchor 544 690> mark @MC_abvm_candra;
+	pos base uni0A2F <anchor 643 690> mark @MC_abvm_candra;
+	pos base uni0A2F.post <anchor 370 690> mark @MC_abvm_candra;
+	pos base uni0A3E <anchor 140 690> mark @MC_abvm_candra;
+	pos base uni0A3F <anchor 707 690> mark @MC_abvm_candra;
+	pos base uni0A40 <anchor 415 690> mark @MC_abvm_candra;
+	pos base uni0A5E <anchor 447 690> mark @MC_abvm_candra;
+	pos base uni0A72 <anchor 469 690> mark @MC_abvm_candra;
+	pos base uni0A73 <anchor 791 650> mark @MC_abvm_candra;
+} MARK_BASE_abvm_candra;
+
+
+lookup MKMK_MARK_abvm {
+	pos mark uni0A47 <anchor 243 670> mark @MC_abvm;
+	pos mark uni0A48 <anchor 243 670> mark @MC_abvm;
+	pos mark uni0A4B <anchor 243 670> mark @MC_abvm;
+	pos mark uni0A4C <anchor 343 670> mark @MC_abvm;
+} MKMK_MARK_abvm;
+
+
+lookup MKMK_MARK_abvm_bindu {
+	pos mark uni0A01 <anchor 0 870> mark @MC_abvm_bindu;
+	pos mark uni0A47 <anchor 173 680> mark @MC_abvm_bindu;
+	pos mark uni0A48 <anchor 173 680> mark @MC_abvm_bindu;
+	pos mark uni0A4B <anchor 173 680> mark @MC_abvm_bindu;
+	pos mark uni0A4C <anchor 273 680> mark @MC_abvm_bindu;
+	pos mark uni0A70 <anchor 0 659> mark @MC_abvm_bindu;
+	pos mark uni0A71 <anchor -1 782> mark @MC_abvm_bindu;
+} MKMK_MARK_abvm_bindu;
+
+
+lookup MKMK_MARK_abvm_candra {
+	pos mark uni0A47 <anchor 243 690> mark @MC_abvm_candra;
+	pos mark uni0A48 <anchor 243 690> mark @MC_abvm_candra;
+	pos mark uni0A4B <anchor 243 690> mark @MC_abvm_candra;
+	pos mark uni0A4C <anchor 343 690> mark @MC_abvm_candra;
+} MKMK_MARK_abvm_candra;
+
+

@@ -1,0 +1,18 @@
+# Created: Tue Feb 23 01:47:15 2016
+# PS Name: Sector-Black
+# MM Inst: Sector
+# exported from Defcon
+
+@mGC_abvm_0_684 = [uni0A47 uni0A48 uni0A4B uni0A4C];
+@mGC_abvm_candra_0_692 = [uni0A01 uni0A70 uni0A71];
+@mGC_blwm_0_0 = [uni0A30.blwf uni0A35.blwf uni0A4D uni0A51 uni0A75];
+@mGC_blwm_caret_1_0_30 = [uni0A41 uni0A42];
+
+markClass @mGC_abvm_0_684 <anchor 0 684> @MC_abvm;
+markClass @mGC_abvm_candra_0_692 <anchor 0 692> @MC_abvm_candra;
+markClass @mGC_blwm_0_0 <anchor 0 0> @MC_blwm;
+markClass @mGC_blwm_caret_1_0_30 <anchor 0 30> @MC_blwm_caret_1;
+markClass uni0A02 <anchor 0 682> @MC_abvm_bindu;
+markClass uni0A39.blwf <anchor 0 2> @MC_blwm;
+markClass uni0A3C <anchor 0 -124> @MC_blwm_nukta;
+

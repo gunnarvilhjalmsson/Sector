@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>@MMK_L_hyphen</key>
+	<array>
+		<string>softhyphen</string>
+	</array>
+	<key>@MMK_R_hyphen</key>
+	<array>
+		<string>softhyphen</string>
+	</array>
+	<key>COMBINING_MARKS</key>
+	<array>
+		<string>uni0A30.blwf</string>
+		<string>uni0A35.blwf</string>
+		<string>uni0A39.blwf</string>
+		<string>uni0A01</string>
+		<string>uni0A02</string>
+		<string>uni0A3C</string>
+		<string>uni0A41</string>
+		<string>uni0A42</string>
+		<string>uni0A47</string>
+		<string>uni0A48</string>
+		<string>uni0A4B</string>
+		<string>uni0A4C</string>
+		<string>uni0A4D</string>
+		<string>uni0A51</string>
+		<string>uni0A70</string>
+		<string>uni0A71</string>
+		<string>uni0A75</string>
+		<string>uni0A03</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A48" format="1">
+  <advance width="0"/>
+  <unicode hex="0A48"/>
+  <outline>
+    <contour>
+      <point x="0" y="683" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="204" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="289" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="289" y="670" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="76" y="661" type="line"/>
+      <point x="73" y="951"/>
+      <point x="-55" y="1111"/>
+      <point x="-282" y="1111" type="curve"/>
+      <point x="-275" y="983.0" type="line"/>
+      <point x="-152.882522097" y="983.0"/>
+      <point x="-72.041457506" y="931.229583304"/>
+      <point x="-38.32841" y="812.43039" type="curve"/>
+      <point x="-102.753279941" y="893.364563903"/>
+      <point x="-212.583151128" y="938.0"/>
+      <point x="-338.0" y="938.0" type="curve" smooth="yes"/>
+      <point x="-395" y="938"/>
+      <point x="-451" y="928"/>
+      <point x="-500" y="906" type="curve"/>
+      <point x="-461.0" y="776.0" type="line"/>
+      <point x="-423" y="789"/>
+      <point x="-367" y="797"/>
+      <point x="-311" y="797" type="curve" smooth="yes"/>
+      <point x="-182" y="797"/>
+      <point x="-71" y="772"/>
+      <point x="-71" y="661" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/22 11:44:29</string>
+    </dict>
+  </lib>
+</glyph>

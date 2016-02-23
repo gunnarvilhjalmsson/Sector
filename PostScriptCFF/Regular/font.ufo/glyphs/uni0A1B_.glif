@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A1B" format="1">
+  <advance width="662"/>
+  <unicode hex="0A1B"/>
+  <outline>
+    <contour>
+      <point x="491" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="331" y="2" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="491" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="330" y="30" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="82" y="-59" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="501" y="670" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="625" y="149" type="curve" smooth="yes"/>
+      <point x="625" y="255"/>
+      <point x="494" y="304"/>
+      <point x="327" y="304" type="curve" smooth="yes"/>
+      <point x="304" y="304"/>
+      <point x="282" y="303"/>
+      <point x="260" y="303" type="curve" smooth="yes"/>
+      <point x="218" y="302"/>
+      <point x="181" y="321"/>
+      <point x="181" y="356" type="curve" smooth="yes"/>
+      <point x="181" y="378"/>
+      <point x="196" y="406"/>
+      <point x="253" y="406" type="curve" smooth="yes"/>
+      <point x="562" y="406.0" type="line"/>
+      <point x="562" y="590" type="line"/>
+      <point x="662" y="590" type="line"/>
+      <point x="662" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="590" type="line"/>
+      <point x="449.0" y="590" type="line"/>
+      <point x="449.0" y="499.0" type="line"/>
+      <point x="226.0" y="499.0" type="line" smooth="yes"/>
+      <point x="122" y="499"/>
+      <point x="67" y="448"/>
+      <point x="67" y="387" type="curve" smooth="yes"/>
+      <point x="67.0" y="334.998722043"/>
+      <point x="95.0705838316" y="297.617539833"/>
+      <point x="137.34812" y="275.32436" type="curve"/>
+      <point x="70.3891569684" y="251.00878933"/>
+      <point x="35.0" y="209.017033978"/>
+      <point x="35.0" y="151.0" type="curve" smooth="yes"/>
+      <point x="35" y="45"/>
+      <point x="154" y="-10"/>
+      <point x="332" y="-10" type="curve" smooth="yes"/>
+      <point x="512" y="-10"/>
+      <point x="625" y="44"/>
+    </contour>
+    <contour>
+      <point x="144.0" y="148.993" type="curve" smooth="yes"/>
+      <point x="144.0" y="195.896476307"/>
+      <point x="197.127798804" y="213.481651643"/>
+      <point x="299" y="214.90448" type="curve"/>
+      <point x="299" y="79.44835" type="line"/>
+      <point x="197.934166016" y="82.4770578901"/>
+      <point x="144.0" y="101.632074288"/>
+    </contour>
+    <contour>
+      <point x="516.0" y="147.0" type="curve" smooth="yes"/>
+      <point x="516.0" y="102.071901051"/>
+      <point x="461.354137908" y="82.3649692223"/>
+      <point x="359.0" y="79.40841" type="curve"/>
+      <point x="359.0" y="214.23558" type="line"/>
+      <point x="459.433957158" y="210.628705661"/>
+      <point x="516.0" y="193.338066533"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 15:02:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ttha-gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ttha-gurmukhi</string>
+    </dict>
+  </lib>
+</glyph>

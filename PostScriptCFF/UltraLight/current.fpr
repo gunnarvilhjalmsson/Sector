@@ -1,0 +1,7 @@
+ReleaseMode	true
+InputFontPath	./font.ufo
+FeaturePath	./features
+FontMenuDBPath	../FontMenuNameDB
+GlyphAliasDBPath	../GlyphOrderAndAliasDB
+OutputFontPath	./Sector-UltraLight.otf
+kSetfsSelectionBitsOn	[7]

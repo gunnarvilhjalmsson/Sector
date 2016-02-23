@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A35.blwf" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="_blwm"/>
+    </contour>
+    <contour>
+      <point x="34" y="-335" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="19" y="-309" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="-150" y="-189.0" type="line"/>
+      <point x="-149" y="-188"/>
+      <point x="-149" y="-187"/>
+      <point x="-149" y="-188" type="curve" smooth="yes"/>
+      <point x="-148.98376" y="-189.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="-331" type="curve"/>
+      <point x="106.0" y="-260" type="line"/>
+      <point x="78" y="-263"/>
+      <point x="51" y="-269"/>
+      <point x="27" y="-269" type="curve" smooth="yes"/>
+      <point x="-9.66046295788" y="-269.0"/>
+      <point x="-38.7376515773" y="-260.833396866"/>
+      <point x="-50.43006" y="-232.0" type="curve"/>
+      <point x="96.0" y="-232.0" type="line"/>
+      <point x="99.0" y="-174.0" type="line"/>
+      <point x="-65" y="-174.0" type="line" smooth="yes"/>
+      <point x="-75" y="-174"/>
+      <point x="-78" y="-165"/>
+      <point x="-78" y="-157" type="curve" smooth="yes"/>
+      <point x="-78" y="-150"/>
+      <point x="-73" y="-142"/>
+      <point x="-69" y="-142" type="curve" smooth="yes"/>
+      <point x="126.0" y="-142" type="line"/>
+      <point x="126.0" y="-62.0" type="line"/>
+      <point x="-106.0" y="-62.0" type="line" smooth="yes"/>
+      <point x="-159" y="-62"/>
+      <point x="-192" y="-96"/>
+      <point x="-192" y="-144" type="curve" smooth="yes"/>
+      <point x="-192.0" y="-175.047417322"/>
+      <point x="-172.563233828" y="-195.971518929"/>
+      <point x="-147.71945" y="-209.59398" type="curve"/>
+      <point x="-136.307911241" y="-303.985332174"/>
+      <point x="-50.3879408572" y="-343.0"/>
+      <point x="39.0" y="-343.0" type="curve" smooth="yes"/>
+      <point x="67" y="-343"/>
+      <point x="94" y="-339"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 21:41:23</string>
+    </dict>
+  </lib>
+</glyph>

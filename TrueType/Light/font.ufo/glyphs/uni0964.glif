@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0964" format="1">
+  <advance width="248"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="216" y="-18" type="line"/>
+      <point x="216" y="680" type="line"/>
+      <point x="142" y="680" type="line"/>
+      <point x="142" y="-18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 22:34:59</string>
+    </dict>
+  </lib>
+</glyph>

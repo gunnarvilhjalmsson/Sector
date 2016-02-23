@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A07" format="1">
+  <advance width="987"/>
+  <unicode hex="0A07"/>
+  <outline>
+    <contour>
+      <point x="802" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="802" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="802" y="670" type="move" name="abvm"/>
+    </contour>
+    <component base="uni0A3F"/>
+    <component base="uni0A72" xOffset="339"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/02 16:54:49</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>imatra-gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>iri-gurmukhi</string>
+    </dict>
+  </lib>
+</glyph>

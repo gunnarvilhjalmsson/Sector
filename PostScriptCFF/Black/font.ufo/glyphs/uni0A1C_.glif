@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A1C" format="1">
+  <advance width="788"/>
+  <unicode hex="0A1C"/>
+  <outline>
+    <contour>
+      <point x="591" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="625" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="591" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="440" y="30" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="440" y="-149" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="621" y="670" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="357.0" y="0" type="line"/>
+      <point x="375.0" y="227.0" type="line"/>
+      <point x="512" y="227.0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="734.0" y="0" type="line"/>
+      <point x="734.0" y="530" type="line"/>
+      <point x="788.0" y="530" type="line"/>
+      <point x="788.0" y="694" type="line"/>
+      <point x="0" y="694" type="line"/>
+      <point x="0" y="530" type="line"/>
+      <point x="512" y="530" type="line"/>
+      <point x="512" y="391.0" type="line"/>
+      <point x="313" y="391.0" type="line"/>
+      <point x="256" y="432"/>
+      <point x="163" y="450"/>
+      <point x="84" y="459" type="curve"/>
+      <point x="16" y="311" type="line"/>
+      <point x="51" y="280"/>
+      <point x="108" y="254"/>
+      <point x="166" y="239" type="curve"/>
+      <point x="135" y="19" type="line"/>
+      <point x="136" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/04 22:43:27</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>da-gurmukhi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>STEM-GURM</string>
+    </dict>
+  </lib>
+</glyph>

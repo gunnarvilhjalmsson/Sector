@@ -1,0 +1,154 @@
+# Created: Tue Feb 23 01:48:13 2016
+# PS Name: Sector-SemiBold
+# MM Inst: Sector SemiBold
+# exported from Defcon
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MARK_BASE_blwm {
+	@bGC_uni0A0F_blwm = [uni0A0F uni0A72];
+	@bGC_uni0A13_blwm = [uni0A13 uni0A73];
+	@bGC_uni0A16_blwm = [uni0A16 uni0A25 uni0A27 uni0A2A uni0A59];
+	@bGC_uni0A1C_blwm = [uni0A1C uni0A5B];
+	@bGC_uni0A2E_blwm = [uni0A2E uni0A36 uni0A38];
+	@bGC_uni0A30_blwm = [uni0A30 uni0A39];
+	pos base @bGC_uni0A0F_blwm <anchor 391 2> mark @MC_blwm;
+	pos base @bGC_uni0A13_blwm <anchor 397 2> mark @MC_blwm;
+	pos base @bGC_uni0A16_blwm <anchor 545 0> mark @MC_blwm;
+	pos base @bGC_uni0A1C_blwm <anchor 580 0> mark @MC_blwm;
+	pos base @bGC_uni0A2E_blwm <anchor 567 0> mark @MC_blwm;
+	pos base @bGC_uni0A30_blwm <anchor 372 0> mark @MC_blwm;
+	pos base dottedCircle <anchor 322 0> mark @MC_blwm;
+	pos base uni0A15 <anchor 581 0> mark @MC_blwm;
+	pos base uni0A17 <anchor 709 0> mark @MC_blwm;
+	pos base uni0A18 <anchor 736 0> mark @MC_blwm;
+	pos base uni0A19 <anchor 311 0> mark @MC_blwm;
+	pos base uni0A1A <anchor 456 0> mark @MC_blwm;
+	pos base uni0A1B <anchor 341 2> mark @MC_blwm;
+	pos base uni0A1D <anchor 238 -74> mark @MC_blwm;
+	pos base uni0A1E <anchor 407 0> mark @MC_blwm;
+	pos base uni0A1F <anchor 381 0> mark @MC_blwm;
+	pos base uni0A20 <anchor 332 2> mark @MC_blwm;
+	pos base uni0A21 <anchor 303 2> mark @MC_blwm;
+	pos base uni0A22 <anchor 453 0> mark @MC_blwm;
+	pos base uni0A23 <anchor 401 0> mark @MC_blwm;
+	pos base uni0A24 <anchor 288 0> mark @MC_blwm;
+	pos base uni0A26 <anchor 451 0> mark @MC_blwm;
+	pos base uni0A28 <anchor 417 4> mark @MC_blwm;
+	pos base uni0A2B <anchor 369 0> mark @MC_blwm;
+	pos base uni0A2C <anchor 547 0> mark @MC_blwm;
+	pos base uni0A2D <anchor 283 2> mark @MC_blwm;
+	pos base uni0A2F <anchor 675 0> mark @MC_blwm;
+	pos base uni0A2F.post <anchor 408 0> mark @MC_blwm;
+	pos base uni0A32 <anchor 537 21> mark @MC_blwm;
+	pos base uni0A33 <anchor 389 -74> mark @MC_blwm;
+	pos base uni0A35 <anchor 418 0> mark @MC_blwm;
+	pos base uni0A5A <anchor 708 0> mark @MC_blwm;
+	pos base uni0A5C <anchor 322 27> mark @MC_blwm;
+	pos base uni0A5E <anchor 358 0> mark @MC_blwm;
+} MARK_BASE_blwm;
+
+
+lookup MARK_BASE_blwm_caret_1 {
+	@bGC_uni0A0F_blwm_caret_1 = [uni0A0F uni0A72];
+	@bGC_uni0A13_blwm_caret_1 = [uni0A13 uni0A73];
+	@bGC_uni0A16_blwm_caret_1 = [uni0A16 uni0A20 uni0A28];
+	@bGC_uni0A17_blwm_caret_1 = [uni0A17 uni0A5A];
+	@bGC_uni0A1B_blwm_caret_1 = [uni0A1B uni0A2C];
+	@bGC_uni0A1E_blwm_caret_1 = [uni0A1E uni0A35];
+	@bGC_uni0A25_blwm_caret_1 = [uni0A25 uni0A27 uni0A2A];
+	@bGC_uni0A2E_blwm_caret_1 = [uni0A2E uni0A36 uni0A38];
+	pos base @bGC_uni0A0F_blwm_caret_1 <anchor 389 30> mark @MC_blwm_caret_1;
+	pos base @bGC_uni0A13_blwm_caret_1 <anchor 396 30> mark @MC_blwm_caret_1;
+	pos base @bGC_uni0A16_blwm_caret_1 <anchor 332 30> mark @MC_blwm_caret_1;
+	pos base @bGC_uni0A17_blwm_caret_1 <anchor 454 30> mark @MC_blwm_caret_1;
+	pos base @bGC_uni0A1B_blwm_caret_1 <anchor 341 30> mark @MC_blwm_caret_1;
+	pos base @bGC_uni0A1E_blwm_caret_1 <anchor 392 30> mark @MC_blwm_caret_1;
+	pos base @bGC_uni0A25_blwm_caret_1 <anchor 316 30> mark @MC_blwm_caret_1;
+	pos base @bGC_uni0A2E_blwm_caret_1 <anchor 355 30> mark @MC_blwm_caret_1;
+	pos base dottedCircle <anchor 322 30> mark @MC_blwm_caret_1;
+	pos base uni0A15 <anchor 341 3> mark @MC_blwm_caret_1;
+	pos base uni0A18 <anchor 453 30> mark @MC_blwm_caret_1;
+	pos base uni0A19 <anchor 312 30> mark @MC_blwm_caret_1;
+	pos base uni0A1A <anchor 446 30> mark @MC_blwm_caret_1;
+	pos base uni0A1C <anchor 395 30> mark @MC_blwm_caret_1;
+	pos base uni0A1D <anchor 333 -18> mark @MC_blwm_caret_1;
+	pos base uni0A1F <anchor 378 30> mark @MC_blwm_caret_1;
+	pos base uni0A21 <anchor 291 30> mark @MC_blwm_caret_1;
+	pos base uni0A22 <anchor 431 30> mark @MC_blwm_caret_1;
+	pos base uni0A23 <anchor 380 30> mark @MC_blwm_caret_1;
+	pos base uni0A24 <anchor 270 30> mark @MC_blwm_caret_1;
+	pos base uni0A26 <anchor 452 30> mark @MC_blwm_caret_1;
+	pos base uni0A2B <anchor 349 30> mark @MC_blwm_caret_1;
+	pos base uni0A2D <anchor 274 30> mark @MC_blwm_caret_1;
+	pos base uni0A2F <anchor 399 30> mark @MC_blwm_caret_1;
+	pos base uni0A2F.post <anchor 157 30> mark @MC_blwm_caret_1;
+	pos base uni0A30 <anchor 360 30> mark @MC_blwm_caret_1;
+	pos base uni0A32 <anchor 369 30> mark @MC_blwm_caret_1;
+	pos base uni0A33 <anchor 371 -23> mark @MC_blwm_caret_1;
+	pos base uni0A39 <anchor 358 30> mark @MC_blwm_caret_1;
+	pos base uni0A59 <anchor 275 30> mark @MC_blwm_caret_1;
+	pos base uni0A5B <anchor 389 3> mark @MC_blwm_caret_1;
+	pos base uni0A5C <anchor 322 57> mark @MC_blwm_caret_1;
+	pos base uni0A5E <anchor 372 30> mark @MC_blwm_caret_1;
+} MARK_BASE_blwm_caret_1;
+
+
+lookup MARK_BASE_blwm_nukta {
+	@bGC_uni0A0F_blwm_nukta = [uni0A0F uni0A72];
+	@bGC_uni0A13_blwm_nukta = [uni0A13 uni0A73];
+	@bGC_uni0A17_blwm_nukta = [uni0A17 uni0A5A];
+	@bGC_uni0A18_blwm_nukta = [uni0A18 uni0A25 uni0A27 uni0A2A];
+	@bGC_uni0A19_blwm_nukta = [uni0A19 uni0A1B];
+	@bGC_uni0A1E_blwm_nukta = [uni0A1E uni0A35];
+	@bGC_uni0A32_blwm_nukta = [uni0A32 uni0A33];
+	@bGC_uni0A36_blwm_nukta = [uni0A36 uni0A38];
+	pos base @bGC_uni0A0F_blwm_nukta <anchor 106 -48> mark @MC_blwm_nukta;
+	pos base @bGC_uni0A13_blwm_nukta <anchor 92 -18> mark @MC_blwm_nukta;
+	pos base @bGC_uni0A17_blwm_nukta <anchor 60 -26> mark @MC_blwm_nukta;
+	pos base @bGC_uni0A18_blwm_nukta <anchor 100 0> mark @MC_blwm_nukta;
+	pos base @bGC_uni0A19_blwm_nukta <anchor 86 -82> mark @MC_blwm_nukta;
+	pos base @bGC_uni0A1E_blwm_nukta <anchor 102 -39> mark @MC_blwm_nukta;
+	pos base @bGC_uni0A32_blwm_nukta <anchor 371 -35> mark @MC_blwm_nukta;
+	pos base @bGC_uni0A36_blwm_nukta <anchor 355 35> mark @MC_blwm_nukta;
+	pos base uni0A15 <anchor 113 -35> mark @MC_blwm_nukta;
+	pos base uni0A16 <anchor 99 9> mark @MC_blwm_nukta;
+	pos base uni0A1A <anchor 104 0> mark @MC_blwm_nukta;
+	pos base uni0A1C <anchor 395 -105> mark @MC_blwm_nukta;
+	pos base uni0A1D <anchor 59 -32> mark @MC_blwm_nukta;
+	pos base uni0A1F <anchor 87 -35> mark @MC_blwm_nukta;
+	pos base uni0A20 <anchor 45 -35> mark @MC_blwm_nukta;
+	pos base uni0A21 <anchor 70 -67> mark @MC_blwm_nukta;
+	pos base uni0A22 <anchor 108 0> mark @MC_blwm_nukta;
+	pos base uni0A23 <anchor 89 -41> mark @MC_blwm_nukta;
+	pos base uni0A24 <anchor 76 -94> mark @MC_blwm_nukta;
+	pos base uni0A26 <anchor 115 0> mark @MC_blwm_nukta;
+	pos base uni0A28 <anchor 43 -35> mark @MC_blwm_nukta;
+	pos base uni0A2B <anchor 63 -35> mark @MC_blwm_nukta;
+	pos base uni0A2C <anchor 106 -44> mark @MC_blwm_nukta;
+	pos base uni0A2D <anchor 60 -94> mark @MC_blwm_nukta;
+	pos base uni0A2E <anchor 314 18> mark @MC_blwm_nukta;
+	pos base uni0A2F <anchor 116 -9> mark @MC_blwm_nukta;
+	pos base uni0A2F.post <anchor 156 -30> mark @MC_blwm_nukta;
+	pos base uni0A30 <anchor 63 -27> mark @MC_blwm_nukta;
+	pos base uni0A39 <anchor 65 -27> mark @MC_blwm_nukta;
+	pos base uni0A59 <anchor 105 48> mark @MC_blwm_nukta;
+	pos base uni0A5B <anchor 389 -6> mark @MC_blwm_nukta;
+	pos base uni0A5E <anchor 69 -36> mark @MC_blwm_nukta;
+} MARK_BASE_blwm_nukta;
+
+
+lookup MKMK_MARK_blwm {
+	pos mark uni0A35.blwf <anchor 8 -327> mark @MC_blwm;
+	pos mark uni0A39.blwf <anchor -68 -308> mark @MC_blwm;
+	pos mark uni0A75 <anchor 81 -308> mark @MC_blwm;
+} MKMK_MARK_blwm;
+
+
+lookup MKMK_MARK_blwm_caret_1 {
+	pos mark uni0A35.blwf <anchor -8 -301> mark @MC_blwm_caret_1;
+	pos mark uni0A39.blwf <anchor -69 -280> mark @MC_blwm_caret_1;
+	pos mark uni0A75 <anchor 80 -280> mark @MC_blwm_caret_1;
+} MKMK_MARK_blwm_caret_1;
+
+
