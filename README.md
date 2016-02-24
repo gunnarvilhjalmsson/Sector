@@ -3,4 +3,4 @@ Sector is a modern Gurmukhi script font family with a wide range of weights. Sec
 
 Sector is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
 
-Thanks to Dave Crossland, Erin McLaughlin, Alessia Mazzarella and Jeevan for helping out.
+Thanks to Dave Crossland, Kalapi Gajjar-Bordawekar, Erin McLaughlin, Alessia Mazzarella and Jeevan for helping out.
