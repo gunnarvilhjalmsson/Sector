@@ -1,7 +1,0 @@
-ReleaseMode	true
-InputFontPath	./font.ttf
-FeaturePath	./features
-FontMenuDBPath	../FontMenuNameDB
-GlyphAliasDBPath	../GlyphOrderAndAliasDB
-OutputFontPath	./Sector-Bold.ttf
-kSetfsSelectionBitsOn	[7]

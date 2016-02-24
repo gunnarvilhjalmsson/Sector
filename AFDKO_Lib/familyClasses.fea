@@ -1,0 +1,16 @@
+# -------------
+# Table Classes
+# -------------
+
+#@SIMPLE = [
+#];
+
+@LIGATURES = [uni0A2F.post];
+
+@MARK = [uni0A30.blwf uni0A35.blwf uni0A39.blwf uni0A01 uni0A02 uni0A3C uni0A41 uni0A42 uni0A47 uni0A48 uni0A4B uni0A4C uni0A4D uni0A51 uni0A70 uni0A71 uni0A75 uni0A03];
+
+@COMPONENT = [uni0A2F uni0A30 uni0A35 uni0A39];
+
+# ---------------
+# Feature Classes
+# ---------------

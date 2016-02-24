@@ -1,0 +1,82 @@
+# -----------
+# Table Order
+# -----------
+
+#TABLE_ORDER = [
+#	head
+#	hhea
+#	maxp
+#	OS/2
+#	hmtx
+#	LTSH
+#	VDMX
+#	hdmx
+#	cmap
+#	fpgm
+#	prep
+#	cvt
+#	loca
+#	glyf
+#	name
+#	post
+#	gasp
+#	GDEF
+#	GSUB
+#	GPOS
+#	DSIG
+#];
+
+# ----------
+# name Table
+# ----------
+
+table name {
+	#Copyright String
+    nameid 0 "Copyright (C) 2016 by Gunnar Vilhjalmsson. All rights reserved.";
+    nameid 0 1 "Copyright (C) 2016 by Gunnar Vilhjalmsson. All rights reserved.";
+    
+    #Trademark String
+    nameid 7 "Sector is a trademark of Gunnar Vilhjalmsson; Montserrat is a trademark of Julieta Ulanovsky";
+    nameid 7 1 "Sector is a trademark of Gunnar Vilhjalmsson; Montserrat is a trademark of Julieta Ulanovsky";
+    
+    #Manufacturer Name
+    nameid 8 "UT";
+    nameid 8 1 "UT";
+    
+    #Designer
+    nameid 9 "Gunnar Vilhjalmsson";
+    nameid 9 1 "Gunnar Vilhjalmsson";
+    
+    #URL Vendor
+    #nameid 11 "";
+    #nameid 11 1 "";
+    
+    #URL Designer
+    nameid 12 "www.gunnarvilhjalmsson.net";
+    nameid 12 1 "www.gunnarvilhjalmsson.net";
+    
+    #License Description
+    nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+    nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+    
+    #License URL
+    nameid 14 "http://scripts.sil.org/OFL";
+    nameid 14 1 "http://scripts.sil.org/OFL";
+} name;
+
+# ----------
+# GDEF Table
+# ----------
+
+table GDEF {
+	# 1. <@SIMPLE> : Spacing Base Glyph.
+	# 2. <@LIGATURES> : Spacing Base Glyph.
+	# 3. <@MARK> : Non-Spacing Glyph.
+	# 4. <@COMPONENT> : Part of a Base Glyph.
+#	GlyphClassDef @SIMPLE, @LIGATURES, @MARK, @COMPONENT;
+    GlyphClassDef , @LIGATURES, @MARK, @COMPONENT;
+} GDEF ;
+
+# -------------
+# End of Tables
+# -------------

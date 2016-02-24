@@ -1,0 +1,187 @@
+# ------
+# Groups
+# ------
+
+# ----------
+# head Table
+# ----------
+
+table head {
+    FontRevision 1.001;
+} head;
+
+# ----------
+# hhea Table
+# ----------
+
+table hhea {
+    Ascender 968;
+    Descender -251;
+    LineGap 0;
+} hhea;
+
+include (../familyClasses.fea);
+include (../familyTables.fea);
+
+# ---------------
+# Developer Notes
+# ---------------
+
+#
+
+# ----------------------------
+# Language System Declarations
+# ----------------------------
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem guru dflt;
+languagesystem guru PAN;
+languagesystem gur2 dflt;
+languagesystem gur2 PAN;
+
+# Features & Lookups
+
+# -----------------------
+# BLWF Lookahead Sequence
+# -----------------------
+
+lookup blwf_lookahead_1 {
+	sub uni0A30 uni0A4D by uni0A30.blwf;
+	sub uni0A35 uni0A4D by uni0A35.blwf;
+	sub uni0A39 uni0A4D by uni0A39.blwf;
+} blwf_lookahead_1 ;
+
+lookup blwf_lookahead_2 {
+	sub uni0A4D uni0A30 by uni0A30.blwf;
+	sub uni0A4D uni0A35 by uni0A35.blwf;
+	sub uni0A4D uni0A39 by uni0A39.blwf;
+} blwf_lookahead_2 ;
+
+# -----
+# Nukta
+# -----
+
+feature nukt {
+	script DFLT;
+		language dflt;
+			lookup nukta_forms {
+				sub uni0A16 uni0A3C by uni0A59;
+				sub uni0A17 uni0A3C by uni0A5A;
+				sub uni0A1C uni0A3C by uni0A5B;
+				sub uni0A2B uni0A3C by uni0A5E;
+				sub uni0A32 uni0A3C by uni0A33;
+				sub uni0A38 uni0A3C by uni0A36;
+			} nukta_forms ;
+	script guru;
+		language dflt;
+			lookup nukta_forms;
+		language PAN;
+			lookup nukta_forms;
+	script gur2;
+		language dflt;
+			lookup nukta_forms;
+		language PAN;
+			lookup nukta_forms;
+} nukt ;
+
+# ----------------
+# Below-Base Forms
+# ----------------
+
+lookup below_base_forms_guru {
+	ignore sub [uni0A30.blwf uni0A35.blwf uni0A39.blwf uni0A75] [uni0A30 uni0A35 uni0A39]' [uni0A4D]';
+	sub [uni0A30 uni0A35 uni0A39 ]' lookup blwf_lookahead_1 [uni0A4D]';
+} below_base_forms_guru;
+
+lookup below_base_forms_gur2 {
+	ignore sub [uni0A30.blwf uni0A35.blwf uni0A39.blwf uni0A75] [uni0A4D]' [uni0A30 uni0A35 uni0A39]';
+	sub [uni0A4D]' lookup blwf_lookahead_2 [uni0A30 uni0A35 uni0A39]';
+} below_base_forms_gur2;
+
+feature blwf {
+	script DFLT;
+		language dflt;
+			lookup below_base_forms_guru;
+			lookup below_base_forms_gur2;
+	script guru;
+		language dflt;
+			lookup below_base_forms_guru;
+		language PAN;
+			lookup below_base_forms_guru;
+	script gur2;
+		language dflt;
+			lookup below_base_forms_gur2;
+		language PAN;
+			lookup below_base_forms_gur2;
+} blwf ;
+
+# -----------------------
+# Post-Base Substitutions
+# -----------------------
+
+feature pstf {
+	script DFLT;
+		language dflt;
+			lookup post_base_forms {
+				sub uni0A4D uni0A2F by uni0A2F.post;
+			} post_base_forms ;
+	script guru;
+		language dflt;
+			lookup post_base_forms;
+		language PAN;
+			lookup post_base_forms;
+	script gur2;
+		language dflt;
+			lookup post_base_forms;
+		language PAN;
+			lookup post_base_forms;
+} pstf ;
+
+# -----------------------------------
+# Stylistic Alternates (Long Ekonkar)
+# -----------------------------------
+
+lookup stylistic_long_ek_onkar {
+	sub uni0A74 by uni0A74.ss01;
+} stylistic_long_ek_onkar ;
+
+feature salt {
+	script DFLT;
+		language dflt;
+			lookup stylistic_long_ek_onkar;
+	script guru;
+		language dflt;
+			lookup stylistic_long_ek_onkar;
+		language PAN;
+			lookup stylistic_long_ek_onkar;
+	script gur2;
+		language dflt;
+			lookup stylistic_long_ek_onkar;
+		language PAN;
+			lookup stylistic_long_ek_onkar;
+} salt ;
+
+# -------------------------------
+# Stylistic Set 01 (Long Ekonkar)
+# -------------------------------
+
+feature ss01 {
+	script DFLT;
+		language dflt;
+			lookup stylistic_long_ek_onkar;
+	script guru;
+		language dflt;
+			lookup stylistic_long_ek_onkar;
+		language PAN;
+			lookup stylistic_long_ek_onkar;
+	script gur2;
+		language dflt;
+			lookup stylistic_long_ek_onkar;
+		language PAN;
+			lookup stylistic_long_ek_onkar;
+} ss01 ;
+
+# ---------------
+# End of Features
+# ---------------
