@@ -1,5 +1,4 @@
-Copyright (c) 2016, Gunnar Vilhjalmsson (gunnarvilhjalmsson@gmail.com), with Reserved Font Names ‘Sector Gurmukhi’
-
+Copyright (c) 2016, Gunnar Vilhjalmsson (gunnarvilhjalmsson@gmail.com)
 
 
 
