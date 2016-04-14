@@ -1,4 +1,4 @@
-Copyright 2016 Gunnar Vilhjalmsson
+Copyright 2016 The Montserrat and Sector Project Authors
 
 
 
