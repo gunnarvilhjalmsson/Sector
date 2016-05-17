@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A14" format="1">
+  <advance width="807"/>
+  <unicode hex="0A14"/>
+  <outline>
+    <contour>
+      <point x="678" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="678" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="678" y="670" type="move" name="abvm"/>
+    </contour>
+    <component base="uni0A05"/>
+    <component base="uni0A4C" xOffset="681"/>
+  </outline>
+</glyph>

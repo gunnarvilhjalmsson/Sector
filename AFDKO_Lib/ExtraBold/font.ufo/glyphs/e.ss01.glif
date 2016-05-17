@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.ss01" format="1">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="308" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="553" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="308" y="544" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="317" y="-7" type="curve" smooth="yes"/>
+      <point x="423" y="-7"/>
+      <point x="509" y="30"/>
+      <point x="573" y="104" type="curve"/>
+      <point x="460.0" y="205.0" type="line"/>
+      <point x="421" y="165"/>
+      <point x="376" y="142"/>
+      <point x="333" y="142" type="curve" smooth="yes"/>
+      <point x="287.681820315" y="142.0"/>
+      <point x="253.467324723" y="165.983957643"/>
+      <point x="235.6845" y="207.17933" type="curve"/>
+      <point x="588" y="284" type="line"/>
+      <point x="586" y="449"/>
+      <point x="476" y="551"/>
+      <point x="307" y="551" type="curve" smooth="yes"/>
+      <point x="131" y="550"/>
+      <point x="19" y="438"/>
+      <point x="19" y="269" type="curve" smooth="yes"/>
+      <point x="19" y="103"/>
+      <point x="138" y="-7"/>
+    </contour>
+    <contour>
+      <point x="315.0" y="414.0" type="curve" smooth="yes"/>
+      <point x="353" y="414"/>
+      <point x="380" y="391"/>
+      <point x="389" y="347" type="curve"/>
+      <point x="223.5322" y="309.95497" type="line"/>
+      <point x="230.855681164" y="376.196346873"/>
+      <point x="264.055554644" y="414.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

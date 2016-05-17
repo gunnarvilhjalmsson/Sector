@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0A14" format="1">
-  <advance width="862"/>
+  <advance width="863"/>
   <unicode hex="0A14"/>
   <outline>
     <contour>
@@ -15,10 +15,4 @@
     <component base="uni0A05"/>
     <component base="uni0A4C" xOffset="700"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/04 22:39:23</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="577"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="530" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="284" y="526" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="245" y="62" type="curve"/>
+      <point x="170" y="62"/>
+      <point x="124" y="101"/>
+      <point x="124" y="159" type="curve"/>
+      <point x="124" y="218"/>
+      <point x="169" y="245"/>
+      <point x="258" y="245" type="curve"/>
+      <point x="420.55882" y="245.0" type="line"/>
+      <point x="420.93799" y="180.54135" type="line"/>
+      <point x="405" y="108"/>
+      <point x="336" y="62"/>
+    </contour>
+    <contour>
+      <point x="422.0" y="0" type="line"/>
+      <point x="498.0" y="0" type="line"/>
+      <point x="497.0" y="348.0" type="line"/>
+      <point x="496" y="460"/>
+      <point x="424" y="529"/>
+      <point x="294" y="529" type="curve"/>
+      <point x="204" y="529"/>
+      <point x="147" y="503"/>
+      <point x="79" y="458" type="curve"/>
+      <point x="112.0" y="403.0" type="line"/>
+      <point x="167" y="442"/>
+      <point x="221" y="464"/>
+      <point x="279" y="464" type="curve"/>
+      <point x="372" y="464"/>
+      <point x="420" y="417"/>
+      <point x="420" y="340" type="curve"/>
+      <point x="420.19412" y="307" type="line"/>
+      <point x="248.0" y="307" type="line"/>
+      <point x="123" y="306"/>
+      <point x="50" y="248"/>
+      <point x="50" y="156" type="curve"/>
+      <point x="50" y="66"/>
+      <point x="120" y="-3"/>
+      <point x="230" y="-3" type="curve"/>
+      <point x="313.071902131" y="-3.0"/>
+      <point x="380.653476712" y="24.460126112"/>
+      <point x="421.5191" y="81.75287" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

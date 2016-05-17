@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0A25" format="1">
-  <advance width="681"/>
+  <advance width="682"/>
   <unicode hex="0A25"/>
   <outline>
     <contour>
@@ -70,8 +70,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 15:16:47</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>pa-gurmukhi</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

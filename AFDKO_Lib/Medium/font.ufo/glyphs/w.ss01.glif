@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.ss01" format="1">
+  <advance width="973"/>
+  <outline>
+    <contour>
+      <point x="486" y="535" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="780" y="535" type="line"/>
+      <point x="780" y="230" type="line" smooth="yes"/>
+      <point x="780" y="161"/>
+      <point x="735" y="117"/>
+      <point x="669" y="117" type="curve" smooth="yes"/>
+      <point x="598" y="117"/>
+      <point x="552" y="161"/>
+      <point x="552" y="230" type="curve" smooth="yes"/>
+      <point x="552" y="535" type="line"/>
+      <point x="421" y="535" type="line"/>
+      <point x="421" y="230" type="line" smooth="yes"/>
+      <point x="421" y="161"/>
+      <point x="377" y="117"/>
+      <point x="308" y="117" type="curve" smooth="yes"/>
+      <point x="239" y="117"/>
+      <point x="193" y="161"/>
+      <point x="193" y="230" type="curve" smooth="yes"/>
+      <point x="193" y="535" type="line"/>
+      <point x="63" y="535" type="line"/>
+      <point x="63" y="224" type="line" smooth="yes"/>
+      <point x="63" y="86"/>
+      <point x="153" y="-6"/>
+      <point x="287" y="-6" type="curve" smooth="yes"/>
+      <point x="372" y="-6"/>
+      <point x="453" y="39"/>
+      <point x="487" y="107" type="curve"/>
+      <point x="523" y="39"/>
+      <point x="604" y="-6"/>
+      <point x="688" y="-6" type="curve" smooth="yes"/>
+      <point x="822" y="-6"/>
+      <point x="910" y="86"/>
+      <point x="910" y="224" type="curve" smooth="yes"/>
+      <point x="910" y="535" type="line"/>
+    </contour>
+  </outline>
+</glyph>

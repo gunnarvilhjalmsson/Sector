@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="1">
-  <advance width="213"/>
+  <advance width="214"/>
   <unicode hex="2019"/>
   <outline>
-    <component base="comma" yOffset="620"/>
+    <contour>
+      <point x="95.0" y="498.0" type="line"/>
+      <point x="152" y="584" type="line" smooth="yes"/>
+      <point x="162" y="600"/>
+      <point x="169" y="617"/>
+      <point x="169" y="637" type="curve" smooth="yes"/>
+      <point x="169" y="677"/>
+      <point x="141" y="701"/>
+      <point x="108" y="701" type="curve" smooth="yes"/>
+      <point x="73" y="701"/>
+      <point x="47" y="674"/>
+      <point x="47" y="637" type="curve" smooth="yes"/>
+      <point x="47.0" y="615.592931271"/>
+      <point x="55.604113964" y="596.430414011"/>
+      <point x="73.49876" y="584.83924" type="curve"/>
+      <point x="36" y="498.0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 14:37:56</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>comma</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

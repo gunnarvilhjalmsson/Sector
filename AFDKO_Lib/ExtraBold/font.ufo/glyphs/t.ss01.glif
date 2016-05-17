@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.ss01" format="1">
+  <advance width="412"/>
+  <outline>
+    <contour>
+      <point x="209" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="187" y="272" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="396" y="26" type="curve"/>
+      <point x="360.0" y="165" type="line"/>
+      <point x="337" y="156"/>
+      <point x="314" y="149"/>
+      <point x="299" y="149" type="curve"/>
+      <point x="270" y="149"/>
+      <point x="252" y="169"/>
+      <point x="252" y="205" type="curve"/>
+      <point x="252.0" y="387.0" type="line"/>
+      <point x="386.0" y="387.0" type="line"/>
+      <point x="386.0" y="516" type="line"/>
+      <point x="252.0" y="516" type="line"/>
+      <point x="252.0" y="667" type="line"/>
+      <point x="51.0" y="667" type="line"/>
+      <point x="51.0" y="174.0" type="line"/>
+      <point x="51" y="60"/>
+      <point x="129" y="-10"/>
+      <point x="246" y="-9" type="curve"/>
+      <point x="300" y="-9"/>
+      <point x="359" y="4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

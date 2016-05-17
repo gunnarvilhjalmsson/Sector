@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="350"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="153" y="522" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="43" y="620" type="line"/>
+      <point x="84" y="620" type="line"/>
+      <point x="177" y="725" type="line"/>
+      <point x="142" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="620" type="line"/>
+      <point x="213" y="620" type="line"/>
+      <point x="306" y="725" type="line"/>
+      <point x="271" y="745" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.tosf" format="1">
+  <advance width="617"/>
+  <outline>
+    <contour>
+      <point x="109" y="600" type="line"/>
+      <point x="109" y="262" type="line"/>
+      <point x="168" y="284"/>
+      <point x="241" y="298"/>
+      <point x="296" y="298" type="curve"/>
+      <point x="431" y="298"/>
+      <point x="519" y="229"/>
+      <point x="519" y="124" type="curve"/>
+      <point x="519" y="1"/>
+      <point x="431" y="-78"/>
+      <point x="294" y="-78" type="curve"/>
+      <point x="225" y="-78"/>
+      <point x="137" y="-53"/>
+      <point x="72" y="-14" type="curve"/>
+      <point x="62" y="-30" type="line"/>
+      <point x="129" y="-71"/>
+      <point x="219" y="-98"/>
+      <point x="294" y="-98" type="curve"/>
+      <point x="443" y="-98"/>
+      <point x="539" y="-11"/>
+      <point x="539" y="124" type="curve"/>
+      <point x="539" y="241"/>
+      <point x="444" y="318"/>
+      <point x="296" y="318" type="curve"/>
+      <point x="248" y="318"/>
+      <point x="183" y="307"/>
+      <point x="129" y="290" type="curve"/>
+      <point x="129" y="580" type="line"/>
+      <point x="512" y="580" type="line"/>
+      <point x="512" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

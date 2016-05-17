@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.ss01" format="1">
+  <advance width="1195"/>
+  <outline>
+    <contour>
+      <point x="249" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="151" y="700" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="391.0" y="586.0" type="curve" smooth="yes"/>
+      <point x="482" y="586"/>
+      <point x="544" y="516"/>
+      <point x="544" y="416" type="curve" smooth="yes"/>
+      <point x="544" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+      <point x="663" y="376.57692" type="line"/>
+      <point x="664" y="376.0" type="line"/>
+      <point x="664" y="492"/>
+      <point x="740" y="584"/>
+      <point x="846" y="586" type="curve" smooth="yes"/>
+      <point x="937" y="586"/>
+      <point x="999" y="516"/>
+      <point x="999" y="416" type="curve" smooth="yes"/>
+      <point x="999.0" y="0" type="line"/>
+      <point x="1118" y="0" type="line"/>
+      <point x="1118" y="444.0" type="line" smooth="yes"/>
+      <point x="1118" y="596"/>
+      <point x="1021" y="700"/>
+      <point x="887" y="700" type="curve" smooth="yes"/>
+      <point x="774.779335642" y="698.639749523"/>
+      <point x="688.000039989" y="643.158769255"/>
+      <point x="643.96543" y="553.36847" type="curve"/>
+      <point x="609.619153594" y="643.695661239"/>
+      <point x="531.595946378" y="700.0"/>
+      <point x="433.0" y="700.0" type="curve" smooth="yes"/>
+      <point x="335.907078778" y="698.830205768"/>
+      <point x="257.972017176" y="657.634169117"/>
+      <point x="210.0" y="589.01029" type="curve"/>
+      <point x="210.0" y="700.0" type="line"/>
+      <point x="92.0" y="699.995" type="line"/>
+      <point x="92.0" y="0" type="line"/>
+      <point x="210.0" y="0" type="line"/>
+      <point x="210.0" y="398.77753" type="line"/>
+      <point x="219.268218332" y="503.868377465"/>
+      <point x="292.067721001" y="584.133353226"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U</string>
+    </dict>
+  </lib>
+</glyph>

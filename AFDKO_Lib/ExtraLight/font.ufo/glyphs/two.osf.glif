@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="1">
+  <advance width="544"/>
+  <outline>
+    <contour>
+      <point x="48" y="527" type="curve"/>
+      <point x="68" y="494" type="line"/>
+      <point x="118" y="540"/>
+      <point x="186" y="569"/>
+      <point x="248" y="569" type="curve" smooth="yes"/>
+      <point x="342" y="569"/>
+      <point x="398" y="527"/>
+      <point x="398" y="459" type="curve" smooth="yes"/>
+      <point x="398" y="415"/>
+      <point x="360" y="352"/>
+      <point x="299" y="294" type="curve" smooth="yes"/>
+      <point x="50" y="40" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="485" y="41" type="line"/>
+      <point x="101" y="41" type="line"/>
+      <point x="328" y="269" type="line" smooth="yes"/>
+      <point x="398" y="337"/>
+      <point x="442" y="409"/>
+      <point x="442" y="463" type="curve" smooth="yes"/>
+      <point x="442" y="553"/>
+      <point x="368" y="608"/>
+      <point x="252" y="608" type="curve" smooth="yes"/>
+      <point x="179" y="608"/>
+      <point x="104" y="578"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>two.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>two.lf</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="460"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="272" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="230" y="274" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="289" y="-10" type="curve"/>
+      <point x="347" y="-10"/>
+      <point x="409" y="3"/>
+      <point x="445" y="24" type="curve"/>
+      <point x="407.0" y="178.0" type="line"/>
+      <point x="386" y="170"/>
+      <point x="364" y="164"/>
+      <point x="351" y="164" type="curve"/>
+      <point x="324" y="163"/>
+      <point x="307" y="181"/>
+      <point x="307" y="210" type="curve"/>
+      <point x="307" y="232.0" type="line"/>
+      <point x="435.0" y="232.0" type="line"/>
+      <point x="435.0" y="349.0" type="line"/>
+      <point x="307" y="349.0" type="line"/>
+      <point x="307" y="400.0" type="line"/>
+      <point x="435.0" y="400.0" type="line"/>
+      <point x="435.0" y="517" type="line"/>
+      <point x="307" y="517" type="line"/>
+      <point x="307" y="670" type="line"/>
+      <point x="83" y="670" type="line"/>
+      <point x="83" y="517" type="line"/>
+      <point x="8" y="517" type="line"/>
+      <point x="8" y="400.0" type="line"/>
+      <point x="83" y="400.0" type="line"/>
+      <point x="83" y="349.0" type="line"/>
+      <point x="8" y="349.0" type="line"/>
+      <point x="8" y="232.0" type="line"/>
+      <point x="83" y="232.0" type="line"/>
+      <point x="83" y="176.0" type="line"/>
+      <point x="83" y="62"/>
+      <point x="164" y="-11"/>
+    </contour>
+  </outline>
+</glyph>

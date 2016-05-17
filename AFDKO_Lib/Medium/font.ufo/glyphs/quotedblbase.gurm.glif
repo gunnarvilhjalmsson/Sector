@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase.gurm" format="1">
+  <advance width="409"/>
+  <outline>
+    <component base="quotesinglbase.gurm"/>
+    <component base="quotesinglbase.gurm" xOffset="189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>comma.gurm</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>comma.gurm</string>
+    </dict>
+  </lib>
+</glyph>

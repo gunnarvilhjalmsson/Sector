@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.dnom" format="1">
+  <advance width="396"/>
+  <outline>
+    <contour>
+      <point x="190" y="-7" type="curve"/>
+      <point x="305" y="-7"/>
+      <point x="380" y="53"/>
+      <point x="380" y="144" type="curve"/>
+      <point x="380" y="222"/>
+      <point x="310" y="271"/>
+      <point x="202" y="271" type="curve"/>
+      <point x="201" y="271"/>
+      <point x="189" y="272"/>
+      <point x="188" y="273" type="curve"/>
+      <point x="188.0" y="306" type="line"/>
+      <point x="359.0" y="306" type="line"/>
+      <point x="359.0" y="421.0" type="line"/>
+      <point x="45.0" y="421.0" type="line"/>
+      <point x="45.0" y="164" type="line"/>
+      <point x="49.8595560056" y="163.80561776"/>
+      <point x="56.872825964" y="163.61123552"/>
+      <point x="65.15111" y="163.42545" type="curve"/>
+      <point x="4" y="50.0" type="line"/>
+      <point x="53" y="16"/>
+      <point x="126" y="-7"/>
+    </contour>
+    <contour>
+      <point x="171" y="104" type="curve"/>
+      <point x="132.524683382" y="104.0"/>
+      <point x="97.9424633825" y="123.465483088"/>
+      <point x="67.25334" y="163.3776" type="curve"/>
+      <point x="101.704349599" y="162.623100511"/>
+      <point x="155.791391148" y="162.0"/>
+      <point x="170.0" y="162.0" type="curve"/>
+      <point x="198" y="162"/>
+      <point x="211" y="153"/>
+      <point x="211" y="134" type="curve"/>
+      <point x="211" y="113"/>
+      <point x="198" y="104"/>
+    </contour>
+  </outline>
+</glyph>

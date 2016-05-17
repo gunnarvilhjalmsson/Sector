@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="449"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="266" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="224" y="272" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="282" y="-9" type="curve"/>
+      <point x="337" y="-9"/>
+      <point x="396" y="4"/>
+      <point x="433" y="26" type="curve"/>
+      <point x="397.0" y="165" type="line"/>
+      <point x="374" y="156"/>
+      <point x="351" y="149"/>
+      <point x="336" y="149" type="curve"/>
+      <point x="307" y="149"/>
+      <point x="289" y="166"/>
+      <point x="289" y="201" type="curve"/>
+      <point x="289" y="387.0" type="line"/>
+      <point x="423.0" y="387.0" type="line"/>
+      <point x="423.0" y="516" type="line"/>
+      <point x="289" y="516" type="line"/>
+      <point x="289" y="667" type="line"/>
+      <point x="88.0" y="667" type="line"/>
+      <point x="88.0" y="516" type="line"/>
+      <point x="13.0" y="516" type="line"/>
+      <point x="13.0" y="387.0" type="line"/>
+      <point x="88.0" y="387.0" type="line"/>
+      <point x="88.0" y="170" type="line"/>
+      <point x="88" y="57"/>
+      <point x="166" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

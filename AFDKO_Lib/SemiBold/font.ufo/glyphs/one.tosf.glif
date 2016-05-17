@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tosf" format="1">
+  <advance width="617"/>
+  <outline>
+    <contour>
+      <point x="406" y="0" type="line"/>
+      <point x="406" y="601" type="line"/>
+      <point x="106" y="601" type="line"/>
+      <point x="106" y="467" type="line"/>
+      <point x="248" y="467" type="line"/>
+      <point x="248" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0A2F.post" format="1">
-  <advance width="532"/>
+  <advance width="533"/>
   <outline>
     <contour>
       <point x="370" y="680" type="move" name="abvm_bindu"/>
@@ -47,8 +47,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/04 22:39:28</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>STEM-GURM</string>
     </dict>

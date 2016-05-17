@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="987"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="665" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="923" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="598" y="699" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="442.0" y="679" type="line"/>
+      <point x="471.0" y="679" type="line"/>
+      <point x="471.0" y="243.0" type="line"/>
+      <point x="180.01473" y="243.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="471.0" y="0" type="line"/>
+      <point x="922.0" y="0" type="line"/>
+      <point x="922.0" y="20" type="line"/>
+      <point x="491.0" y="20" type="line"/>
+      <point x="491.0" y="350.0" type="line"/>
+      <point x="862.0" y="350.0" type="line"/>
+      <point x="862.0" y="370.0" type="line"/>
+      <point x="491.0" y="370.0" type="line"/>
+      <point x="491.0" y="679" type="line"/>
+      <point x="908.0" y="679" type="line"/>
+      <point x="908.0" y="699.0" type="line"/>
+      <point x="431.0" y="699.0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="167.99705" y="223.0" type="line"/>
+      <point x="471.0" y="223.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

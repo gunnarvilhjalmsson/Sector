@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U.ss01" format="1">
+  <advance width="769"/>
+  <outline>
+    <contour>
+      <point x="719" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="390" y="700" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="559" y="-12.0" type="line"/>
+      <point x="677" y="-11.995" type="line"/>
+      <point x="677" y="688" type="line"/>
+      <point x="559" y="688" type="line"/>
+      <point x="559" y="290.06644" type="line"/>
+      <point x="549.33770563" y="184.564950062"/>
+      <point x="470.557375801" y="103.871678893"/>
+      <point x="362.0" y="102.0" type="curve" smooth="yes"/>
+      <point x="264" y="102"/>
+      <point x="197" y="171"/>
+      <point x="197" y="272" type="curve" smooth="yes"/>
+      <point x="197.0" y="688" type="line"/>
+      <point x="77" y="688" type="line"/>
+      <point x="77" y="244.0" type="line" smooth="yes"/>
+      <point x="77" y="92"/>
+      <point x="179" y="-12"/>
+      <point x="321" y="-12" type="curve" smooth="yes"/>
+      <point x="424.493462119" y="-10.8104199756"/>
+      <point x="508.175515358" y="31.7708536036"/>
+      <point x="559" y="102.49568" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

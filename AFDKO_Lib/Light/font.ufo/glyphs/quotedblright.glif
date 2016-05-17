@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="353"/>
+  <advance width="323"/>
   <unicode hex="201D"/>
   <outline>
     <component base="quoteright"/>
-    <component base="quoteright" xOffset="157"/>
+    <component base="quoteright" xOffset="126"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 22:34:59</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>quoteright</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

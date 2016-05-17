@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng.ss01" format="1">
+  <advance width="767"/>
+  <outline>
+    <contour>
+      <point x="384" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="267" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="391" y="700" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="468" y="-212" type="curve" smooth="yes"/>
+      <point x="609" y="-212"/>
+      <point x="700" y="-132"/>
+      <point x="703" y="0" type="curve"/>
+      <point x="702.0" y="0.10625" type="line"/>
+      <point x="702.0" y="444.0" type="line" smooth="yes"/>
+      <point x="702" y="598"/>
+      <point x="604" y="700"/>
+      <point x="461" y="700" type="curve" smooth="yes"/>
+      <point x="362.342839693" y="699.409238561"/>
+      <point x="283.229627741" y="656.93858779"/>
+      <point x="235.0" y="585.1446" type="curve"/>
+      <point x="235.0" y="700.0" type="line"/>
+      <point x="77" y="700.0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="235.0" y="0" type="line"/>
+      <point x="235.0" y="377.0" type="line"/>
+      <point x="235" y="476"/>
+      <point x="303" y="551"/>
+      <point x="402" y="552" type="curve" smooth="yes"/>
+      <point x="486" y="552"/>
+      <point x="542" y="492"/>
+      <point x="542" y="406" type="curve" smooth="yes"/>
+      <point x="542" y="0.61498" type="line"/>
+      <point x="536.320062793" y="-44.9370594134"/>
+      <point x="506.779962582" y="-69.0"/>
+      <point x="462.0" y="-69.0" type="curve" smooth="yes"/>
+      <point x="427" y="-69"/>
+      <point x="384" y="-55"/>
+      <point x="343" y="-26" type="curve"/>
+      <point x="282" y="-148" type="line"/>
+      <point x="331" y="-189"/>
+      <point x="394" y="-212"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/05/14 08:45:32</string>
+    </dict>
+  </lib>
+</glyph>

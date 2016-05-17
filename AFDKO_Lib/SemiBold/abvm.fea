@@ -1,11 +1,22 @@
-# Created: Tue Feb 23 01:48:13 2016
+# Created: Sat May 14 16:39:51 2016
 # PS Name: Sector-SemiBold
-# MM Inst: Sector SemiBold
+# MM Inst: Sector
 # exported from Defcon
 
 # NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
 
 lookup MARK_BASE_abvm {
+	@bGC_A_abvm = [A C U];
+	@bGC_D_abvm = [D R];
+	@bGC_I_abvm = [I M.ss01];
+	@bGC_N_abvm = [N Eng];
+	@bGC_Oslash_abvm = [Oslash N.ss01 Eng.ss01];
+	@bGC_S_abvm = [S Y];
+	@bGC_i_abvm = [i idotless kgreenlandic];
+	@bGC_k_abvm = [k l thorn];
+	@bGC_n_abvm = [n eng];
+	@bGC_o_abvm = [o oslash];
+	@bGC_u_abvm = [u y.ss01];
 	@bGC_uni0A16_abvm = [uni0A16 uni0A2A uni0A59];
 	@bGC_uni0A17_abvm = [uni0A17 uni0A5A];
 	@bGC_uni0A1C_abvm = [uni0A1C uni0A5B];
@@ -17,6 +28,17 @@ lookup MARK_BASE_abvm {
 	@bGC_uni0A30_abvm = [uni0A30 uni0A39];
 	@bGC_uni0A32_abvm = [uni0A32 uni0A33];
 	@bGC_uni0A36_abvm = [uni0A36 uni0A38];
+	pos base @bGC_A_abvm <anchor 380 700> mark @MC_abvm;
+	pos base @bGC_D_abvm <anchor 361 700> mark @MC_abvm;
+	pos base @bGC_I_abvm <anchor 156 700> mark @MC_abvm;
+	pos base @bGC_N_abvm <anchor 394 700> mark @MC_abvm;
+	pos base @bGC_Oslash_abvm <anchor 391 700> mark @MC_abvm;
+	pos base @bGC_S_abvm <anchor 333 700> mark @MC_abvm;
+	pos base @bGC_i_abvm <anchor 151 538> mark @MC_abvm;
+	pos base @bGC_k_abvm <anchor 157 742> mark @MC_abvm;
+	pos base @bGC_n_abvm <anchor 351 538> mark @MC_abvm;
+	pos base @bGC_o_abvm <anchor 317 537> mark @MC_abvm;
+	pos base @bGC_u_abvm <anchor 325 538> mark @MC_abvm;
 	pos base @bGC_uni0A16_abvm <anchor 523 670> mark @MC_abvm;
 	pos base @bGC_uni0A17_abvm <anchor 707 672> mark @MC_abvm;
 	pos base @bGC_uni0A1C_abvm <anchor 578 670> mark @MC_abvm;
@@ -28,7 +50,45 @@ lookup MARK_BASE_abvm {
 	pos base @bGC_uni0A30_abvm <anchor 478 670> mark @MC_abvm;
 	pos base @bGC_uni0A32_abvm <anchor 570 670> mark @MC_abvm;
 	pos base @bGC_uni0A36_abvm <anchor 567 670> mark @MC_abvm;
+	pos base A.ss01 <anchor 382 700> mark @MC_abvm;
+	pos base AE <anchor 637 700> mark @MC_abvm;
+	pos base E <anchor 346 700> mark @MC_abvm;
+	pos base E.ss01 <anchor 301 700> mark @MC_abvm;
+	pos base G <anchor 390 700> mark @MC_abvm;
+	pos base G.ss01 <anchor 375 700> mark @MC_abvm;
+	pos base H <anchor 401 700> mark @MC_abvm;
+	pos base I.ss01 <anchor 249 700> mark @MC_abvm;
+	pos base J <anchor 257 700> mark @MC_abvm;
+	pos base J.ss01 <anchor 266 700> mark @MC_abvm;
+	pos base K <anchor 360 700> mark @MC_abvm;
+	pos base L <anchor 155 700> mark @MC_abvm;
+	pos base O <anchor 396 700> mark @MC_abvm;
+	pos base OE <anchor 553 700> mark @MC_abvm;
+	pos base T <anchor 311 700> mark @MC_abvm;
+	pos base T.ss01 <anchor 337 700> mark @MC_abvm;
+	pos base U.ss01 <anchor 387 700> mark @MC_abvm;
+	pos base W <anchor 537 700> mark @MC_abvm;
+	pos base W.ss01 <anchor 585 700> mark @MC_abvm;
+	pos base Y.ss01 <anchor 371 700> mark @MC_abvm;
+	pos base Z <anchor 349 700> mark @MC_abvm;
+	pos base Z.ss01 <anchor 336 700> mark @MC_abvm;
+	pos base a <anchor 296 538> mark @MC_abvm;
+	pos base a.ss01 <anchor 334 538> mark @MC_abvm;
+	pos base ae <anchor 486 538> mark @MC_abvm;
+	pos base ae.ss01 <anchor 477 538> mark @MC_abvm;
+	pos base c <anchor 291 537> mark @MC_abvm;
 	pos base dottedCircle <anchor 321 670> mark @MC_abvm;
+	pos base e <anchor 300 537> mark @MC_abvm;
+	pos base e.ss01 <anchor 304 538> mark @MC_abvm;
+	pos base g <anchor 322 538> mark @MC_abvm;
+	pos base g.ss01 <anchor 317 538> mark @MC_abvm;
+	pos base h <anchor 153 742> mark @MC_abvm;
+	pos base jdotless <anchor 147 538> mark @MC_abvm;
+	pos base l.ss01 <anchor 167 538> mark @MC_abvm;
+	pos base oe <anchor 517 537> mark @MC_abvm;
+	pos base oe.ss01 <anchor 938 538> mark @MC_abvm;
+	pos base r <anchor 218 538> mark @MC_abvm;
+	pos base s <anchor 258 538> mark @MC_abvm;
 	pos base uni0A05 <anchor 706 681> mark @MC_abvm;
 	pos base uni0A06 <anchor 1004 681> mark @MC_abvm;
 	pos base uni0A07 <anchor 778 670> mark @MC_abvm;
@@ -54,6 +114,11 @@ lookup MARK_BASE_abvm {
 	pos base uni0A3E <anchor 148 670> mark @MC_abvm;
 	pos base uni0A5E <anchor 466 670> mark @MC_abvm;
 	pos base uni0A72 <anchor 485 670> mark @MC_abvm;
+	pos base w <anchor 462 538> mark @MC_abvm;
+	pos base w.ss01 <anchor 488 538> mark @MC_abvm;
+	pos base y <anchor 283 538> mark @MC_abvm;
+	pos base z <anchor 274 537> mark @MC_abvm;
+	pos base z.ss01 <anchor 274 538> mark @MC_abvm;
 } MARK_BASE_abvm;
 
 

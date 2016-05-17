@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss01" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="266" y="700" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="60" y="700" type="line"/>
+      <point x="60" y="566" type="line"/>
+      <point x="301" y="566" type="line"/>
+      <point x="301" y="128" type="line" smooth="yes"/>
+      <point x="301" y="68"/>
+      <point x="269" y="36"/>
+      <point x="217" y="36" type="curve" smooth="yes"/>
+      <point x="174" y="36"/>
+      <point x="118" y="62"/>
+      <point x="69" y="114" type="curve"/>
+      <point x="-4" y="2" type="line"/>
+      <point x="54" y="-67"/>
+      <point x="131" y="-107"/>
+      <point x="225" y="-107" type="curve" smooth="yes"/>
+      <point x="370" y="-107"/>
+      <point x="460" y="-23"/>
+      <point x="460" y="124" type="curve" smooth="yes"/>
+      <point x="460" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>J</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>J</string>
+    </dict>
+  </lib>
+</glyph>

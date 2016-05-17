@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="1">
-  <advance width="435"/>
+  <advance width="405"/>
   <unicode hex="201E"/>
   <outline>
     <component base="quotesinglbase"/>
-    <component base="quotesinglbase" xOffset="204"/>
+    <component base="quotesinglbase" xOffset="173"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 15:21:09</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>comma</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

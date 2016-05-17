@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.ss01" format="1">
+  <advance width="736"/>
+  <outline>
+    <contour>
+      <point x="369" y="700" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="370" y="-103" type="curve"/>
+      <point x="533" y="-103"/>
+      <point x="647" y="6"/>
+      <point x="647" y="162" type="curve"/>
+      <point x="647" y="700.0" type="line"/>
+      <point x="568" y="700.0" type="line"/>
+      <point x="568" y="439.72311" type="line"/>
+      <point x="557.910305794" y="318.529811964"/>
+      <point x="472.485018633" y="233.876803584"/>
+      <point x="358.0" y="232.0" type="curve"/>
+      <point x="248" y="232"/>
+      <point x="170" y="312"/>
+      <point x="170" y="424" type="curve"/>
+      <point x="170" y="700.0" type="line" smooth="yes"/>
+      <point x="90.0" y="700.0" type="line"/>
+      <point x="90.0" y="417.0" type="line"/>
+      <point x="90" y="265"/>
+      <point x="195" y="157"/>
+      <point x="343" y="157" type="curve"/>
+      <point x="442.982107726" y="158.922732841"/>
+      <point x="523.247407038" y="208.905186188"/>
+      <point x="568" y="289.59547" type="curve"/>
+      <point x="568" y="164" type="line"/>
+      <point x="568" y="51"/>
+      <point x="482" y="-30"/>
+      <point x="361" y="-30" type="curve"/>
+      <point x="277" y="-30"/>
+      <point x="184" y="11"/>
+      <point x="135" y="68" type="curve"/>
+      <point x="95.0" y="11.0" type="line"/>
+      <point x="150" y="-56"/>
+      <point x="263" y="-103"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>J</string>
+    </dict>
+  </lib>
+</glyph>

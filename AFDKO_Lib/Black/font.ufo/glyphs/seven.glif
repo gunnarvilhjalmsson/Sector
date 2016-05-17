@@ -7,21 +7,15 @@
   </note>
   <outline>
     <contour>
-      <point x="608" y="701" type="line"/>
-      <point x="29" y="701" type="line"/>
-      <point x="29" y="425" type="line"/>
-      <point x="233" y="425" type="line"/>
-      <point x="233" y="523" type="line"/>
-      <point x="353" y="523" type="line"/>
+      <point x="29" y="702" type="line"/>
+      <point x="29" y="426" type="line"/>
+      <point x="233" y="426" type="line"/>
+      <point x="233" y="524" type="line"/>
+      <point x="353" y="524" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="367" y="0" type="line"/>
-      <point x="608" y="546" type="line"/>
+      <point x="608" y="547" type="line"/>
+      <point x="608" y="702" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 22:22:12</string>
-    </dict>
-  </lib>
 </glyph>

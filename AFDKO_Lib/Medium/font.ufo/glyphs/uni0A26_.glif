@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0A26" format="1">
-  <advance width="684"/>
+  <advance width="685"/>
   <unicode hex="0A26"/>
   <outline>
     <contour>
@@ -57,8 +57,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 15:16:50</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>STEM-GURM</string>
     </dict>

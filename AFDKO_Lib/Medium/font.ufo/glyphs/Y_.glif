@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="1">
+  <advance width="649"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="324" y="700" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="394.0" y="0" type="line"/>
+      <point x="394.0" y="228.98089" type="line"/>
+      <point x="649" y="700.0" type="line"/>
+      <point x="514" y="700.0" type="line"/>
+      <point x="326" y="371.0" type="line"/>
+      <point x="135" y="700.0" type="line"/>
+      <point x="-1" y="700.0" type="line"/>
+      <point x="260" y="223.96226" type="line"/>
+      <point x="260" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

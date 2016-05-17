@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ss01" format="1">
+  <advance width="318"/>
+  <outline>
+    <contour>
+      <point x="161" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="161" y="535" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="302" y="535" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="72" y="162" type="line" smooth="yes"/>
+      <point x="72" y="50"/>
+      <point x="137" y="-6"/>
+      <point x="218" y="-6" type="curve" smooth="yes"/>
+      <point x="250" y="-6"/>
+      <point x="285" y="3"/>
+      <point x="319" y="20" type="curve"/>
+      <point x="303" y="129" type="line"/>
+      <point x="283" y="119"/>
+      <point x="266" y="113"/>
+      <point x="250" y="113" type="curve" smooth="yes"/>
+      <point x="221" y="113"/>
+      <point x="202" y="132"/>
+      <point x="202" y="173" type="curve" smooth="yes"/>
+      <point x="202" y="742" type="line"/>
+      <point x="72" y="742" type="line"/>
+    </contour>
+  </outline>
+</glyph>

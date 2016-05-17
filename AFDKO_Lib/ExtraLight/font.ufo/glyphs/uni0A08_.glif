@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A08" format="1">
+  <advance width="850"/>
+  <unicode hex="0A08"/>
+  <outline>
+    <contour>
+      <point x="858" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="888" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="858" y="670" type="move" name="abvm"/>
+    </contour>
+    <component base="uni0A72"/>
+    <component base="uni0A40" xOffset="615"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>STEM-GURM</string>
+    </dict>
+  </lib>
+</glyph>

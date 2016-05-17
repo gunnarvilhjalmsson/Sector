@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A33" format="1">
+  <advance width="709"/>
+  <unicode hex="0A33"/>
+  <outline>
+    <contour>
+      <point x="584" y="680" type="move" name="abvm_bindu"/>
+    </contour>
+    <contour>
+      <point x="459" y="6" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="356" y="690" type="move" name="abvm_candra"/>
+    </contour>
+    <contour>
+      <point x="356" y="20" type="move" name="blwm_caret_1"/>
+    </contour>
+    <contour>
+      <point x="356" y="2" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="581" y="670" type="move" name="abvm"/>
+    </contour>
+    <component base="uni0A32"/>
+    <component base="uni0A3C" xOffset="356" yOffset="55"/>
+  </outline>
+</glyph>

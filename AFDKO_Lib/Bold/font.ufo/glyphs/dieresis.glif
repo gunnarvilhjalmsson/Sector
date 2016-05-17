@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="366"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="175" y="541" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="-1.474" y="694.97" type="curve" smooth="yes"/>
+      <point x="-1.474" y="647.594"/>
+      <point x="31.52" y="614.6"/>
+      <point x="78.05" y="614.6" type="curve" smooth="yes"/>
+      <point x="123.734" y="614.6"/>
+      <point x="156.728" y="647.594"/>
+      <point x="156.728" y="694.97" type="curve" smooth="yes"/>
+      <point x="156.728" y="742.346"/>
+      <point x="123.734" y="775.34"/>
+      <point x="78.05" y="775.34" type="curve" smooth="yes"/>
+      <point x="31.52" y="775.34"/>
+      <point x="-1.474" y="742.346"/>
+    </contour>
+    <contour>
+      <point x="192.526" y="694.97" type="curve" smooth="yes"/>
+      <point x="192.526" y="647.594"/>
+      <point x="225.52" y="614.6"/>
+      <point x="272.05" y="614.6" type="curve" smooth="yes"/>
+      <point x="317.734" y="614.6"/>
+      <point x="350.728" y="647.594"/>
+      <point x="350.728" y="694.97" type="curve" smooth="yes"/>
+      <point x="350.728" y="742.346"/>
+      <point x="317.734" y="775.34"/>
+      <point x="272.05" y="775.34" type="curve" smooth="yes"/>
+      <point x="225.52" y="775.34"/>
+      <point x="192.526" y="742.346"/>
+    </contour>
+  </outline>
+</glyph>

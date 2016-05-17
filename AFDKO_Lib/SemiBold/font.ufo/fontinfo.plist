@@ -7,40 +7,38 @@
 	<key>capHeight</key>
 	<integer>691</integer>
 	<key>copyright</key>
-	<string>Copyright ￂﾩ 2016 by Gunnar Vilhjalmsson. All rights reserved.</string>
+	<string>Copyright 2016 The Montserrat and Sector Project Authors</string>
 	<key>descender</key>
 	<integer>-196</integer>
 	<key>familyName</key>
 	<string>Sector</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/01/13 22:53:33</string>
+	<string>2016/04/14 23:39:46</string>
 	<key>openTypeNameDesigner</key>
-	<string>Gunnar Vilhjalmsson</string>
+	<string>Montserrat by Julieta Ulanovsky; Sector Gurmukhi by Gunnar Vilhjalmsson</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>gunnarvilhjalmsson.net</string>
+	<string>Montserrat http://www.zkysky.com.ar; Sector Gurmukhi http://universalthirst.com</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License Version 1.1.</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
-	<key>openTypeNameManufacturer</key>
-	<string>UT</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>gunnarvilhjalmsson.net</string>
+	<string>Montserrat http://www.zkysky.com.ar; Sector Gurmukhi http://universalthirst.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Sector</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>SemiBold</string>
+	<string>Bold</string>
 	<key>openTypeNameUniqueID</key>
-	<string>1.0;Sector-SemiBold</string>
+	<string>1.100;Sector-Bold</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.0</string>
+	<string>Version 1.100</string>
 	<key>openTypeOS2StrikeoutSize</key>
 	<integer>50</integer>
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
 	<key>openTypeOS2WeightClass</key>
-	<integer>600</integer>
+	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
@@ -66,19 +64,17 @@
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
 	<key>styleMapFamilyName</key>
-	<string>Sector SemiBold</string>
+	<string>Sector</string>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>bold</string>
 	<key>styleName</key>
-	<string>SemiBold</string>
-	<key>trademark</key>
-	<string>Montserrat is a trademark of Julieta Ulanovsky</string>
+	<string>Bold</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>100</integer>
 	<key>xHeight</key>
 	<integer>691</integer>
 </dict>

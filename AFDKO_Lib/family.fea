@@ -7,7 +7,7 @@
 # ----------
 
 table head {
-    FontRevision 1.001;
+    FontRevision 1.200;
 } head;
 
 # ----------
@@ -15,8 +15,8 @@ table head {
 # ----------
 
 table hhea {
-    Ascender 968;
-    Descender -251;
+    Ascender 1342;
+    Descender -677;
     LineGap 0;
 } hhea;
 
@@ -42,6 +42,119 @@ languagesystem gur2 PAN;
 
 # Features & Lookups
 
+# ---------
+# Fractions
+# ---------
+
+feature frac {
+	lookup slashToFracton {
+		sub slash by fraction;
+	} slashToFracton ;
+	lookup preComposedFractions {
+		sub one fraction two by onehalf;
+		sub one fraction four by onequarter;
+		sub three fraction four by threequarters;
+		sub one fraction eight by oneeighth;
+		sub three fraction eight by threeeighths;
+		sub five fraction eight by fiveeighths;
+		sub seven fraction eight by seveneighths;
+	} preComposedFractions ;
+} frac ;
+
+# ----------
+# Numerators
+# ----------
+
+feature numr {
+	lookup numerators {
+		sub @STD_FIGS by @NUMR;
+	} numerators ;
+} numr ;
+
+# ------------
+# Denominators
+# ------------
+
+feature dnom {
+	lookup denominators {
+		sub @STD_FIGS by @DNOM;
+	} denominators ;
+} dnom ;
+
+# -----------------
+# Oldstyle Numerals
+# -----------------
+
+feature onum {
+	lookup oldstyleFigures {
+		sub @STD_FIGS by @ONUMTNUM;
+		sub @LNUMPNUM by @ONUMPNUM;
+	} oldstyleFigures ;
+} onum ;
+
+# ---------------------
+# Proportional Numerals
+# ---------------------
+
+feature pnum {
+	lookup proportionalFigures {
+		sub @STD_FIGS by @LNUMPNUM;
+		sub @ONUMTNUM by @ONUMPNUM;
+	} proportionalFigures ;
+} pnum ;
+
+# ---------------
+# Lining Numerals
+# ---------------
+
+feature lnum {
+	lookup liningFigures {
+		sub @ONUMPNUM by @LNUMPNUM;
+	} liningFigures ;
+} lnum ;
+
+# ----------------
+# Tabular Numerals
+# ----------------
+
+feature tnum {
+	lookup tabularFigures {
+		sub @ONUMPNUM by @ONUMTNUM;
+	} tabularFigures ;
+} tnum ;
+
+# ------------------
+# Standard Ligatures
+# ------------------
+
+feature liga {
+	script DFLT;
+		language dflt;
+			lookup standardLigatures {
+				sub f l by fl;
+				sub f i by fi;
+			} standardLigatures ;
+	script latn;
+		language dflt;
+			lookup standardLigatures;
+} liga ;
+
+# --------
+# Ordinals
+# --------
+
+feature ordn {
+	script DFLT;
+		language dflt;
+			lookup ordinals {
+				sub a by ordfeminine;
+				sub o by ordmasculine;
+			} ordinals ;
+	script latn;
+		language dflt;
+			lookup ordinals;
+} ordn ;
+
 # -----------------------
 # BLWF Lookahead Sequence
 # -----------------------
@@ -57,6 +170,32 @@ lookup blwf_lookahead_2 {
 	sub uni0A4D uni0A35 by uni0A35.blwf;
 	sub uni0A4D uni0A39 by uni0A39.blwf;
 } blwf_lookahead_2 ;
+
+# ---------------
+# Localised Forms
+# ---------------
+
+feature locl {
+	script guru;
+		language dflt;
+			lookup localisedForms {
+				sub comma by comma.gurm;
+				sub semicolon by semicolon.gurm;
+				sub quotedblbase by quotedblbase.gurm;
+				sub quotedblleft by quotedblleft.gurm;
+				sub quotedblright by quotedblright.gurm;
+				sub quoteleft by quoteleft.gurm;
+				sub quoteright by quoteright.gurm;
+				sub quotesinglbase by quotesinglbase.gurm;
+			} localisedForms ;
+		language PAN;
+			lookup localisedForms;
+	script gur2;
+		language dflt;
+			lookup localisedForms;
+		language PAN;
+			lookup localisedForms;
+} locl ;
 
 # -----
 # Nukta
@@ -123,33 +262,164 @@ feature blwf {
 feature pstf {
 	script DFLT;
 		language dflt;
-			lookup post_base_forms {
+			lookup post_base_forms_guru {
 				sub uni0A4D uni0A2F by uni0A2F.post;
-			} post_base_forms ;
+			} post_base_forms_guru  ;
 	script guru;
 		language dflt;
-			lookup post_base_forms;
+			lookup post_base_forms_gur2 {
+				sub uni0A2F uni0A4D by uni0A2F.post;
+			} post_base_forms_gur2 ;
 		language PAN;
-			lookup post_base_forms;
+			lookup post_base_forms_gur2 ;
 	script gur2;
 		language dflt;
-			lookup post_base_forms;
+			lookup post_base_forms_guru;
 		language PAN;
-			lookup post_base_forms;
+			lookup post_base_forms_guru;
 } pstf ;
 
 # -----------------------------------
 # Stylistic Alternates (Long Ekonkar)
 # -----------------------------------
 
-lookup stylistic_long_ek_onkar {
-	sub uni0A74 by uni0A74.ss01;
-} stylistic_long_ek_onkar ;
-
 feature salt {
 	script DFLT;
 		language dflt;
-			lookup stylistic_long_ek_onkar;
+			lookup stylistic_long_ek_onkar {
+				sub uni0A74 by uni0A74.ss01;
+			} stylistic_long_ek_onkar ;
+			lookup stylisticAlternates {
+				sub A by A.ss01;
+				sub Aacute by Aacute.ss01;
+				sub Abreve by Abreve.ss01;
+				sub Acircumflex by Acircumflex.ss01;
+				sub Adieresis by Adieresis.ss01;
+				sub Agrave by Agrave.ss01;
+				sub Amacron by Amacron.ss01;
+				sub Aogonek by Aogonek.ss01;
+				sub Aring by Aring.ss01;
+				sub Atilde by Atilde.ss01;
+				sub E by E.ss01;
+				sub Eacute by Eacute.ss01;
+				sub Ebreve by Ebreve.ss01;
+				sub Ecaron by Ecaron.ss01;
+				sub Ecircumflex by Ecircumflex.ss01;
+				sub Edieresis by Edieresis.ss01;
+				sub Edotaccent by Edotaccent.ss01;
+				sub Egrave by Egrave.ss01;
+				sub Emacron by Emacron.ss01;
+				sub Eogonek by Eogonek.ss01;
+				sub F by F.ss01;
+				sub G by G.ss01;
+				sub Gbreve by Gbreve.ss01;
+				sub Gcircumflex by Gcircumflex.ss01;
+				sub Gcommaaccent by Gcommaaccent.ss01;
+				sub Gdotaccent by Gdotaccent.ss01;
+				sub I by I.ss01;
+				sub IJ by IJ.ss01;
+				sub Iacute by Iacute.ss01;
+				sub Ibreve by Ibreve.ss01;
+				sub Icircumflex by Icircumflex.ss01;
+				sub Idieresis by Idieresis.ss01;
+				sub Idotaccent by Idotaccent.ss01;
+				sub Igrave by Igrave.ss01;
+				sub Imacron by Imacron.ss01;
+				sub Iogonek by Iogonek.ss01;
+				sub Itilde by Itilde.ss01;
+				sub J by J.ss01;
+				sub M by M.ss01;
+				sub N by N.ss01;
+				sub Nacute by Nacute.ss01;
+				sub Ncaron by Ncaron.ss01;
+				sub Ncommaaccent by Ncommaaccent.ss01;
+				sub Eng by Eng.ss01;
+				sub Ntilde by Ntilde.ss01;
+				sub Q by Q.ss01;
+				sub T by T.ss01;
+				sub Tbar by Tbar.ss01;
+				sub Tcaron by Tcaron.ss01;
+				sub Tcedilla by Tcedilla.ss01;
+				sub Tcommaaccent by Tcommaaccent.ss01;
+				sub U by U.ss01;
+				sub Uacute by Uacute.ss01;
+				sub Ubreve by Ubreve.ss01;
+				sub Ucircumflex by Ucircumflex.ss01;
+				sub Udieresis by Udieresis.ss01;
+				sub Ugrave by Ugrave.ss01;
+				sub Uhungarumlaut by Uhungarumlaut.ss01;
+				sub Umacron by Umacron.ss01;
+				sub Uogonek by Uogonek.ss01;
+				sub Uring by Uring.ss01;
+				sub Utilde by Utilde.ss01;
+				sub W by W.ss01;
+				sub Wacute by Wacute.ss01;
+				sub Wcircumflex by Wcircumflex.ss01;
+				sub Wdieresis by Wdieresis.ss01;
+				sub Wgrave by Wgrave.ss01;
+				sub Y by Y.ss01;
+				sub Yacute by Yacute.ss01;
+				sub Ycircumflex by Ycircumflex.ss01;
+				sub Ydieresis by Ydieresis.ss01;
+				sub Ygrave by Ygrave.ss01;
+				sub Z by Z.ss01;
+				sub Zacute by Zacute.ss01;
+				sub Zcaron by Zcaron.ss01;
+				sub Zdotaccent by Zdotaccent.ss01;
+				sub a by a.ss01;
+				sub aacute by aacute.ss01;
+				sub abreve by abreve.ss01;
+				sub acircumflex by acircumflex.ss01;
+				sub adieresis by adieresis.ss01;
+				sub agrave by agrave.ss01;
+				sub amacron by amacron.ss01;
+				sub aogonek by aogonek.ss01;
+				sub aring by aring.ss01;
+				sub atilde by atilde.ss01;
+				sub ae by ae.ss01;
+				sub e by e.ss01;
+				sub eacute by eacute.ss01;
+				sub ebreve by ebreve.ss01;
+				sub ecaron by ecaron.ss01;
+				sub ecircumflex by ecircumflex.ss01;
+				sub edieresis by edieresis.ss01;
+				sub edotaccent by edotaccent.ss01;
+				sub egrave by egrave.ss01;
+				sub emacron by emacron.ss01;
+				sub eogonek by eogonek.ss01;
+				sub f by f.ss01;
+				sub g by g.ss01;
+				sub gbreve by gbreve.ss01;
+				sub gcircumflex by gcircumflex.ss01;
+				sub gcommaaccent by gcommaaccent.ss01;
+				sub gdotaccent by gdotaccent.ss01;
+				sub l by l.ss01;
+				sub oe by oe.ss01;
+				sub t by t.ss01;
+				sub tbar by tbar.ss01;
+				sub tcaron by tcaron.ss01;
+				sub tcedilla by tcedilla.ss01;
+				sub tcommaaccent by tcommaaccent.ss01;
+				sub w by w.ss01;
+				sub wacute by wacute.ss01;
+				sub wcircumflex by wcircumflex.ss01;
+				sub wdieresis by wdieresis.ss01;
+				sub wgrave by wgrave.ss01;
+				sub y by y.ss01;
+				sub yacute by yacute.ss01;
+				sub ycircumflex by ycircumflex.ss01;
+				sub ydieresis by ydieresis.ss01;
+				sub ygrave by ygrave.ss01;
+				sub z by z.ss01;
+				sub zacute by zacute.ss01;
+				sub zcaron by zcaron.ss01;
+				sub zdotaccent by zdotaccent.ss01;
+				sub fi by fi.ss01;
+				sub fl by fl.ss01;
+			} stylisticAlternates;
+	script latn;
+		language dflt;
+			lookup stylisticAlternates;
 	script guru;
 		language dflt;
 			lookup stylistic_long_ek_onkar;
@@ -170,6 +440,10 @@ feature ss01 {
 	script DFLT;
 		language dflt;
 			lookup stylistic_long_ek_onkar;
+			lookup stylisticAlternates;
+	script latn;
+		language dflt;
+			lookup stylisticAlternates;
 	script guru;
 		language dflt;
 			lookup stylistic_long_ek_onkar;

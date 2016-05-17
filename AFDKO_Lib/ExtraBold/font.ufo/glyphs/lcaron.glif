@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="465"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l"/>
+    <component base="quoteright" xOffset="280" yOffset="-28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dcaron</string>
+    </dict>
+  </lib>
+</glyph>

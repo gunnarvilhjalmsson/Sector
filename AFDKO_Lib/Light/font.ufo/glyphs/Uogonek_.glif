@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="1">
+  <advance width="769"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="450" y="-200" type="curve" smooth="yes"/>
+      <point x="483" y="-200"/>
+      <point x="516" y="-180"/>
+      <point x="537" y="-150" type="curve"/>
+      <point x="511.0" y="-120.0" type="line"/>
+      <point x="495" y="-140"/>
+      <point x="478" y="-153"/>
+      <point x="458" y="-153" type="curve" smooth="yes"/>
+      <point x="437" y="-153"/>
+      <point x="423" y="-139"/>
+      <point x="423" y="-115" type="curve" smooth="yes"/>
+      <point x="423.0" y="-87.072130732"/>
+      <point x="438.766254449" y="-50.7974208735"/>
+      <point x="481.90958" y="9.00031" type="curve"/>
+      <point x="605.819614836" y="41.9420125056"/>
+      <point x="678.0" y="141.236014735"/>
+      <point x="678.0" y="288.0" type="curve"/>
+      <point x="678" y="700.0" type="line"/>
+      <point x="598" y="700.0" type="line"/>
+      <point x="598" y="288" type="line"/>
+      <point x="598" y="150"/>
+      <point x="518" y="70"/>
+      <point x="385" y="70" type="curve"/>
+      <point x="251" y="70"/>
+      <point x="169" y="151"/>
+      <point x="169" y="288" type="curve"/>
+      <point x="169" y="700.0" type="line"/>
+      <point x="90.0" y="700.0" type="line"/>
+      <point x="90.0" y="288" type="line"/>
+      <point x="90" y="106"/>
+      <point x="200" y="-3"/>
+      <point x="384" y="-3" type="curve"/>
+      <point x="400.233721838" y="-3.0"/>
+      <point x="415.900856791" y="-2.14225041081"/>
+      <point x="430.97418" y="-0.44601" type="curve"/>
+      <point x="394.247098308" y="-52.027281047"/>
+      <point x="377.0" y="-90.6562213147"/>
+      <point x="377.0" y="-126.0" type="curve" smooth="yes"/>
+      <point x="377" y="-176"/>
+      <point x="412" y="-200"/>
+    </contour>
+  </outline>
+</glyph>

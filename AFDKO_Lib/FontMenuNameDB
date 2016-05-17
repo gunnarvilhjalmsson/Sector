@@ -22,11 +22,11 @@
 	l=Sector
 	m=1,Bold
 
-[Sector-UltraLight]
+[Sector-ExtraLight]
 	f=Sector
-	s=UltraLight
-	l=Sector UltraLight
-	m=1,Sector UltraLight
+	s=ExtraLight
+	l=Sector ExtraLight
+	m=1,Sector ExtraLight
 
 [Sector-Light]
 	f=Sector

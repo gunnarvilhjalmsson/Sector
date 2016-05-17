@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="250"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="202" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="125" y="521" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="104" y="521" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="521" type="line"/>
+    </contour>
+  </outline>
+</glyph>

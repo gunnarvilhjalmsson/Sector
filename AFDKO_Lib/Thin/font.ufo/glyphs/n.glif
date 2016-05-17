@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="644"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="325" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="332" y="517" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="348.0" y="497.0" type="curve"/>
+      <point x="463" y="497"/>
+      <point x="531" y="429"/>
+      <point x="531" y="313" type="curve"/>
+      <point x="531" y="0" type="line" smooth="yes"/>
+      <point x="551" y="0" type="line"/>
+      <point x="551" y="313" type="line"/>
+      <point x="551" y="441"/>
+      <point x="476" y="517"/>
+      <point x="348" y="517" type="curve"/>
+      <point x="239.540516467" y="514.816252009"/>
+      <point x="163.402596543" y="462.295642662"/>
+      <point x="130" y="371.00761" type="curve"/>
+      <point x="130" y="517" type="line"/>
+      <point x="110.0" y="517" type="line"/>
+      <point x="110.0" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="281.04133" type="line"/>
+      <point x="139.661558423" y="414.348131185"/>
+      <point x="218.880973016" y="494.193064631"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="1">
+  <advance width="330"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="90" y="742" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="742" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="309" type="curve" smooth="yes"/>
+      <point x="239" y="273"/>
+      <point x="265" y="246"/>
+      <point x="301" y="246" type="curve" smooth="yes"/>
+      <point x="336" y="246"/>
+      <point x="362" y="273"/>
+      <point x="362" y="309" type="curve" smooth="yes"/>
+      <point x="362" y="347"/>
+      <point x="336" y="374"/>
+      <point x="301" y="374" type="curve" smooth="yes"/>
+      <point x="265" y="374"/>
+      <point x="239" y="347"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

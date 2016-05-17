@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="231"/>
+  <advance width="232"/>
   <unicode hex="003B"/>
   <outline>
     <component base="period" yOffset="297"/>
@@ -8,8 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 15:21:09</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>comma</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

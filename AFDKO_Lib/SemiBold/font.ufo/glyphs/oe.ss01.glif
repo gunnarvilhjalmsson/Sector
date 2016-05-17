@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe.ss01" format="1">
+  <advance width="1028"/>
+  <outline>
+    <contour>
+      <point x="938" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="1181" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="938" y="538" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="737.0" y="-6.0" type="curve" smooth="yes"/>
+      <point x="835" y="-6"/>
+      <point x="917" y="31"/>
+      <point x="979" y="104" type="curve"/>
+      <point x="891.0" y="184.0" type="line"/>
+      <point x="850" y="138"/>
+      <point x="800" y="114"/>
+      <point x="748" y="114" type="curve" smooth="yes"/>
+      <point x="688.703654563" y="114.0"/>
+      <point x="642.546897738" y="145.145691523"/>
+      <point x="620.05392" y="197.26234" type="curve"/>
+      <point x="992.0" y="295" type="line"/>
+      <point x="986" y="449"/>
+      <point x="883" y="544"/>
+      <point x="727" y="543" type="curve" smooth="yes"/>
+      <point x="635.612602767" y="542.425236495"/>
+      <point x="567.019568483" y="505.181280419"/>
+      <point x="525.20827" y="442.82845" type="curve"/>
+      <point x="481.92363178" y="506.14351807"/>
+      <point x="410.620200327" y="543.0"/>
+      <point x="317.0" y="543.0" type="curve" smooth="yes"/>
+      <point x="144" y="543"/>
+      <point x="28" y="434"/>
+      <point x="28" y="269" type="curve" smooth="yes"/>
+      <point x="28" y="105"/>
+      <point x="144" y="-6"/>
+      <point x="317" y="-6" type="curve" smooth="yes"/>
+      <point x="411.18914717" y="-6.0"/>
+      <point x="482.789455201" y="31.9903203719"/>
+      <point x="525.99431" y="96.37284" type="curve"/>
+      <point x="570.19215368" y="31.8956003031"/>
+      <point x="643.088660392" y="-6.0"/>
+    </contour>
+    <contour>
+      <point x="735.0" y="429.0" type="curve" smooth="yes"/>
+      <point x="787" y="429"/>
+      <point x="824" y="405"/>
+      <point x="841" y="353" type="curve"/>
+      <point x="605.31754" y="289.3747" type="line"/>
+      <point x="609.679137792" y="379.869433286"/>
+      <point x="658.692189253" y="429.0"/>
+    </contour>
+    <contour>
+      <point x="450" y="267" type="curve" smooth="yes"/>
+      <point x="450" y="179"/>
+      <point x="396" y="119"/>
+      <point x="316" y="119" type="curve" smooth="yes"/>
+      <point x="237" y="119"/>
+      <point x="182" y="179"/>
+      <point x="182" y="267" type="curve" smooth="yes"/>
+      <point x="182" y="355"/>
+      <point x="237" y="415"/>
+      <point x="316" y="415" type="curve" smooth="yes"/>
+      <point x="396" y="415"/>
+      <point x="450" y="355"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e.ss01</string>
+    </dict>
+  </lib>
+</glyph>

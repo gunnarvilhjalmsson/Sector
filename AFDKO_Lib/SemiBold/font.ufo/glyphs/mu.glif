@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="681"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="273.0" y="-6.0" type="curve" smooth="yes"/>
+      <point x="353.980163987" y="-6.0"/>
+      <point x="416.334401546" y="27.2344961738"/>
+      <point x="453.0" y="94.83469" type="curve"/>
+      <point x="453.0" y="0" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="607" y="538" type="line"/>
+      <point x="453.0" y="538" type="line"/>
+      <point x="453.0" y="272" type="line"/>
+      <point x="452.0" y="272" type="line"/>
+      <point x="452" y="194"/>
+      <point x="408" y="136"/>
+      <point x="334" y="135" type="curve" smooth="yes"/>
+      <point x="272" y="135"/>
+      <point x="233" y="176"/>
+      <point x="233" y="244" type="curve" smooth="yes"/>
+      <point x="233.0" y="538" type="line"/>
+      <point x="79" y="538" type="line"/>
+      <point x="79" y="-194.0" type="line"/>
+      <point x="233.0" y="-194.0" type="line"/>
+      <point x="233.0" y="-2.77898" type="line"/>
+      <point x="245.694907895" y="-4.9135776172"/>
+      <point x="259.044905942" y="-6.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

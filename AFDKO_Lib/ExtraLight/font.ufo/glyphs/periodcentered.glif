@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="180"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="56" y="269" type="curve" smooth="yes"/>
+      <point x="56" y="250"/>
+      <point x="71" y="234"/>
+      <point x="90" y="234" type="curve" smooth="yes"/>
+      <point x="109" y="234"/>
+      <point x="124" y="250"/>
+      <point x="124" y="269" type="curve" smooth="yes"/>
+      <point x="124" y="289"/>
+      <point x="109" y="305"/>
+      <point x="90" y="305" type="curve" smooth="yes"/>
+      <point x="71" y="305"/>
+      <point x="56" y="289"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>period</string>
+    </dict>
+  </lib>
+</glyph>

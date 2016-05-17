@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="613"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="304" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="264" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="151" y="538" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="426.0" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="401.47681" y="330.62657" type="line"/>
+      <point x="599" y="538" type="line"/>
+      <point x="424.0" y="538" type="line"/>
+      <point x="227.0" y="335.26214" type="line"/>
+      <point x="227.0" y="538" type="line"/>
+      <point x="74" y="538" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="227.0" y="0" type="line"/>
+      <point x="227.0" y="147.44882" type="line"/>
+      <point x="295.7723" y="219.65071" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>k</string>
+    </dict>
+  </lib>
+</glyph>

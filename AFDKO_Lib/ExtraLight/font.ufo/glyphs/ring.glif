@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="350"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="175" y="521" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="62" y="671" type="curve" smooth="yes"/>
+      <point x="62" y="612"/>
+      <point x="113" y="561"/>
+      <point x="175" y="561" type="curve" smooth="yes"/>
+      <point x="237" y="561"/>
+      <point x="289" y="612"/>
+      <point x="289" y="671" type="curve" smooth="yes"/>
+      <point x="289" y="731"/>
+      <point x="237" y="782"/>
+      <point x="175" y="782" type="curve" smooth="yes"/>
+      <point x="113" y="782"/>
+      <point x="62" y="731"/>
+    </contour>
+    <contour>
+      <point x="262" y="671" type="curve" smooth="yes"/>
+      <point x="262" y="627"/>
+      <point x="222" y="589"/>
+      <point x="175" y="589" type="curve" smooth="yes"/>
+      <point x="127" y="589"/>
+      <point x="88" y="627"/>
+      <point x="88" y="671" type="curve" smooth="yes"/>
+      <point x="88" y="716"/>
+      <point x="127" y="754"/>
+      <point x="175" y="754" type="curve" smooth="yes"/>
+      <point x="222" y="754"/>
+      <point x="262" y="716"/>
+    </contour>
+  </outline>
+</glyph>

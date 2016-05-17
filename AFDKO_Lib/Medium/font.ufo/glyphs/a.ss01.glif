@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.ss01" format="1">
+  <advance width="676"/>
+  <outline>
+    <contour>
+      <point x="629" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="334" y="535" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="315.0" y="103.0" type="curve" smooth="yes"/>
+      <point x="225" y="103"/>
+      <point x="164" y="170"/>
+      <point x="163" y="266" type="curve" smooth="yes"/>
+      <point x="164" y="361"/>
+      <point x="226" y="429"/>
+      <point x="315" y="429" type="curve" smooth="yes"/>
+      <point x="398.968976623" y="429.0"/>
+      <point x="457.694387565" y="370.678658598"/>
+      <point x="466.0" y="284.85451" type="curve"/>
+      <point x="466.0" y="247.20503" type="line"/>
+      <point x="457.694387565" y="161.321341402"/>
+      <point x="398.968976623" y="103.0"/>
+    </contour>
+    <contour>
+      <point x="466.0" y="0" type="line"/>
+      <point x="596" y="0" type="line"/>
+      <point x="596" y="535" type="line"/>
+      <point x="466.0" y="535" type="line"/>
+      <point x="466.0" y="448.67293" type="line"/>
+      <point x="426.777731884" y="507.735529707"/>
+      <point x="363.770523252" y="540.563934643"/>
+      <point x="282.0" y="540.0" type="curve" smooth="yes"/>
+      <point x="132" y="539"/>
+      <point x="32" y="430"/>
+      <point x="32" y="269" type="curve" smooth="yes"/>
+      <point x="32" y="106"/>
+      <point x="134" y="-6"/>
+      <point x="286" y="-6" type="curve" smooth="yes"/>
+      <point x="366.295940115" y="-6.0"/>
+      <point x="427.625169295" y="26.647617182"/>
+      <point x="466.0" y="84.85475" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dotlessi</string>
+    </dict>
+  </lib>
+</glyph>

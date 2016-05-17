@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="686"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="733" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="343" y="699" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="341" y="676" type="line"/>
+      <point x="545.46154" y="233.0" type="line"/>
+      <point x="139.81509" y="233.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="653" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="352.0" y="699.0" type="line"/>
+      <point x="330" y="699.0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="130.73225" y="213.0" type="line"/>
+      <point x="554.69231" y="213.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

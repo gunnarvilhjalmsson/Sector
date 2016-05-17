@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.ss01" format="1">
+  <advance width="802"/>
+  <outline>
+    <contour>
+      <point x="463.0" y="-118.0" type="line"/>
+      <point x="463.0" y="-4.77781" type="line"/>
+      <point x="650.768584256" y="21.2183714413"/>
+      <point x="783.0" y="164.886859737"/>
+      <point x="783.0" y="351.0" type="curve" smooth="yes"/>
+      <point x="783" y="556"/>
+      <point x="621" y="707"/>
+      <point x="401" y="707" type="curve" smooth="yes"/>
+      <point x="181" y="707"/>
+      <point x="19" y="557"/>
+      <point x="19" y="351" type="curve" smooth="yes"/>
+      <point x="19.0" y="166.650710841"/>
+      <point x="147.486428784" y="25.1302312768"/>
+      <point x="331" y="-3.62447" type="curve"/>
+      <point x="331" y="-118.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="463.0" y="304" type="line"/>
+      <point x="331" y="304" type="line"/>
+      <point x="331" y="182.07183" type="line"/>
+      <point x="273.322723039" y="210.796611526"/>
+      <point x="232.0" y="273.336827775"/>
+      <point x="232.0" y="350.0" type="curve" smooth="yes"/>
+      <point x="232" y="456"/>
+      <point x="310" y="533"/>
+      <point x="403" y="533" type="curve" smooth="yes"/>
+      <point x="495" y="533"/>
+      <point x="569" y="456"/>
+      <point x="569" y="350" type="curve" smooth="yes"/>
+      <point x="569.0" y="268.405357671"/>
+      <point x="525.152657654" y="202.809069982"/>
+      <point x="463.0" y="176.94036" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+    </dict>
+  </lib>
+</glyph>

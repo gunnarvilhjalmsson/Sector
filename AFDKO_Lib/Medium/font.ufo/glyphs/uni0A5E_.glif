@@ -24,10 +24,4 @@
     <component base="uni0A2B"/>
     <component base="uni0A3C" xOffset="66" yOffset="63"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/04 22:39:23</string>
-    </dict>
-  </lib>
 </glyph>

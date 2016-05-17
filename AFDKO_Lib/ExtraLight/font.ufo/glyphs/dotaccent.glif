@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="350"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="175" y="521" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="140" y="671" type="curve" smooth="yes"/>
+      <point x="140" y="650"/>
+      <point x="156" y="634"/>
+      <point x="175" y="634" type="curve" smooth="yes"/>
+      <point x="194" y="634"/>
+      <point x="210" y="650"/>
+      <point x="210" y="671" type="curve" smooth="yes"/>
+      <point x="210" y="691"/>
+      <point x="194" y="707"/>
+      <point x="175" y="707" type="curve" smooth="yes"/>
+      <point x="156" y="707"/>
+      <point x="140" y="691"/>
+    </contour>
+  </outline>
+</glyph>

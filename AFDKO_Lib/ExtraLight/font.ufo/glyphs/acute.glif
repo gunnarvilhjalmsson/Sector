@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="350"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="128" y="521" type="move" name="_abvm"/>
+    </contour>
+    <contour>
+      <point x="88" y="620" type="line"/>
+      <point x="136" y="620" type="line"/>
+      <point x="263" y="723" type="line"/>
+      <point x="222" y="743" type="line"/>
+    </contour>
+  </outline>
+</glyph>

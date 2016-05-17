@@ -59,8 +59,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 16:49:59</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>ma-gurmukhi</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

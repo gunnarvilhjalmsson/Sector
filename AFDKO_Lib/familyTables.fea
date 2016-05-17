@@ -32,32 +32,32 @@
 
 table name {
 	#Copyright String
-    nameid 0 "Copyright (C) 2016 by Gunnar Vilhjalmsson. All rights reserved.";
-    nameid 0 1 "Copyright (C) 2016 by Gunnar Vilhjalmsson. All rights reserved.";
+    nameid 0 "Copyright 2016 The Sector Project Authors.";
+    nameid 0 1 "Copyright 2016 The Sector Project Authors.";
     
     #Trademark String
     nameid 7 "Sector is a trademark of Gunnar Vilhjalmsson; Montserrat is a trademark of Julieta Ulanovsky";
     nameid 7 1 "Sector is a trademark of Gunnar Vilhjalmsson; Montserrat is a trademark of Julieta Ulanovsky";
     
     #Manufacturer Name
-    nameid 8 "UT";
-    nameid 8 1 "UT";
+    nameid 8 "Universal Thirst";
+    nameid 8 1 "Universal Thirst";
     
     #Designer
     nameid 9 "Gunnar Vilhjalmsson";
     nameid 9 1 "Gunnar Vilhjalmsson";
     
     #URL Vendor
-    #nameid 11 "";
-    #nameid 11 1 "";
+    nameid 11 "http://universalthirst.com";
+    nameid 11 1 "http://universalthirst.com";
     
     #URL Designer
-    nameid 12 "www.gunnarvilhjalmsson.net";
-    nameid 12 1 "www.gunnarvilhjalmsson.net";
+    nameid 12 "http://universalthirst.com";
+    nameid 12 1 "http://universalthirst.com";
     
     #License Description
-    nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
-    nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+    nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+    nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
     
     #License URL
     nameid 14 "http://scripts.sil.org/OFL";

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotless" format="1">
+  <advance width="324"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="158" y="544" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="65" y="544" type="line"/>
+      <point x="65" y="12" type="line"/>
+      <point x="65" y="-27"/>
+      <point x="47" y="-46"/>
+      <point x="15" y="-45" type="curve"/>
+      <point x="-5" y="-45"/>
+      <point x="-24" y="-40"/>
+      <point x="-44" y="-29" type="curve"/>
+      <point x="-90" y="-168" type="line"/>
+      <point x="-48" y="-190"/>
+      <point x="4" y="-202"/>
+      <point x="61" y="-202" type="curve"/>
+      <point x="187" y="-203"/>
+      <point x="267" y="-133"/>
+      <point x="267" y="-18" type="curve"/>
+      <point x="267" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

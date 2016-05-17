@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft.gurm" format="1">
+  <advance width="487"/>
+  <outline>
+    <component base="quoteleft.gurm" yOffset="5"/>
+    <component base="quoteleft.gurm" xOffset="234"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quoteleft.gurm</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quoteleft.gurm</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.ss01" format="1">
+  <advance width="373"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="170" y="267" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="352" y="34" type="curve"/>
+      <point x="323" y="122.0" type="line"/>
+      <point x="292" y="107"/>
+      <point x="266" y="99"/>
+      <point x="245" y="99" type="curve"/>
+      <point x="207" y="99"/>
+      <point x="186" y="126"/>
+      <point x="186" y="189" type="curve"/>
+      <point x="186.0" y="249.0" type="line"/>
+      <point x="343" y="249.0" type="line"/>
+      <point x="343" y="333" type="line"/>
+      <point x="186.0" y="333" type="line"/>
+      <point x="186.0" y="428.0" type="line"/>
+      <point x="343" y="428.0" type="line"/>
+      <point x="343" y="512" type="line"/>
+      <point x="186.0" y="512" type="line"/>
+      <point x="186.0" y="658" type="line"/>
+      <point x="72" y="658" type="line"/>
+      <point x="72" y="169" type="line"/>
+      <point x="72" y="53"/>
+      <point x="140" y="-5"/>
+      <point x="224" y="-5" type="curve"/>
+      <point x="265" y="-5"/>
+      <point x="310" y="9"/>
+    </contour>
+  </outline>
+</glyph>

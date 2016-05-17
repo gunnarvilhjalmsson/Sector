@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="678"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="345" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="357" y="544" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="263" y="269" type="line"/>
+      <point x="263" y="331"/>
+      <point x="297" y="374"/>
+      <point x="352" y="375" type="curve" smooth="yes"/>
+      <point x="400" y="375"/>
+      <point x="430" y="341"/>
+      <point x="430" y="287" type="curve" smooth="yes"/>
+      <point x="430.0" y="0" type="line"/>
+      <point x="632" y="0" type="line"/>
+      <point x="632" y="345" type="line" smooth="yes"/>
+      <point x="632" y="471"/>
+      <point x="553" y="552"/>
+      <point x="436" y="552" type="curve" smooth="yes"/>
+      <point x="359.738498503" y="552.0"/>
+      <point x="300.519456039" y="519.774259284"/>
+      <point x="263" y="460.29969" type="curve"/>
+      <point x="263" y="544" type="line"/>
+      <point x="61.0" y="544" type="line"/>
+      <point x="61.0" y="0" type="line"/>
+      <point x="263" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/05/14 08:45:31</string>
+    </dict>
+  </lib>
+</glyph>

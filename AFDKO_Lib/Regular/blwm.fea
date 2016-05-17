@@ -1,4 +1,4 @@
-# Created: Tue Feb 23 01:48:05 2016
+# Created: Sat May 14 16:40:05 2016
 # PS Name: Sector-Regular
 # MM Inst: Sector
 # exported from Defcon
@@ -6,19 +6,54 @@
 # NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
 
 lookup MARK_BASE_blwm {
+	@bGC_N.ss01_blwm = [N.ss01 Eng.ss01];
+	@bGC_N_blwm = [N Eng];
+	@bGC_l_blwm = [l thorn];
+	@bGC_n_blwm = [n eng];
+	@bGC_t.ss01_blwm = [t.ss01 tbar.ss01];
+	@bGC_t_blwm = [t tbar];
 	@bGC_uni0A0F_blwm = [uni0A0F uni0A72];
 	@bGC_uni0A16_blwm = [uni0A16 uni0A25 uni0A27 uni0A2A uni0A59];
 	@bGC_uni0A17_blwm = [uni0A17 uni0A5A];
 	@bGC_uni0A1C_blwm = [uni0A1C uni0A5B];
 	@bGC_uni0A2E_blwm = [uni0A2E uni0A36 uni0A38];
 	@bGC_uni0A30_blwm = [uni0A30 uni0A39];
+	pos base @bGC_N.ss01_blwm <anchor 385 0> mark @MC_blwm;
+	pos base @bGC_N_blwm <anchor 396 0> mark @MC_blwm;
+	pos base @bGC_l_blwm <anchor 148 0> mark @MC_blwm;
+	pos base @bGC_n_blwm <anchor 336 0> mark @MC_blwm;
+	pos base @bGC_t.ss01_blwm <anchor 200 0> mark @MC_blwm;
+	pos base @bGC_t_blwm <anchor 245 0> mark @MC_blwm;
 	pos base @bGC_uni0A0F_blwm <anchor 380 2> mark @MC_blwm;
 	pos base @bGC_uni0A16_blwm <anchor 532 0> mark @MC_blwm;
 	pos base @bGC_uni0A17_blwm <anchor 680 0> mark @MC_blwm;
 	pos base @bGC_uni0A1C_blwm <anchor 555 0> mark @MC_blwm;
 	pos base @bGC_uni0A2E_blwm <anchor 558 0> mark @MC_blwm;
 	pos base @bGC_uni0A30_blwm <anchor 372 1> mark @MC_blwm;
+	pos base AE <anchor 727 0> mark @MC_blwm;
+	pos base C <anchor 383 0> mark @MC_blwm;
+	pos base E <anchor 331 0> mark @MC_blwm;
+	pos base E.ss01 <anchor 292 0> mark @MC_blwm;
+	pos base G <anchor 387 0> mark @MC_blwm;
+	pos base G.ss01 <anchor 376 0> mark @MC_blwm;
+	pos base K <anchor 353 0> mark @MC_blwm;
+	pos base L <anchor 290 0> mark @MC_blwm;
+	pos base OE <anchor 772 0> mark @MC_blwm;
+	pos base R <anchor 360 0> mark @MC_blwm;
+	pos base S <anchor 316 0> mark @MC_blwm;
+	pos base T <anchor 276 0> mark @MC_blwm;
+	pos base T.ss01 <anchor 313 0> mark @MC_blwm;
+	pos base c <anchor 289 0> mark @MC_blwm;
 	pos base dottedCircle <anchor 322 0> mark @MC_blwm;
+	pos base e <anchor 301 0> mark @MC_blwm;
+	pos base e.ss01 <anchor 302 0> mark @MC_blwm;
+	pos base h <anchor 620 0> mark @MC_blwm;
+	pos base k <anchor 123 0> mark @MC_blwm;
+	pos base kgreenlandic <anchor 293 0> mark @MC_blwm;
+	pos base l.ss01 <anchor 157 0> mark @MC_blwm;
+	pos base oe.ss01 <anchor 927 0> mark @MC_blwm;
+	pos base r <anchor 140 0> mark @MC_blwm;
+	pos base s <anchor 234 0> mark @MC_blwm;
 	pos base uni0A13 <anchor 385 1> mark @MC_blwm;
 	pos base uni0A15 <anchor 566 0> mark @MC_blwm;
 	pos base uni0A18 <anchor 716 0> mark @MC_blwm;
@@ -65,6 +100,7 @@ lookup MARK_BASE_blwm_caret_1 {
 	pos base @bGC_uni0A25_blwm_caret_1 <anchor 314 30> mark @MC_blwm_caret_1;
 	pos base @bGC_uni0A2E_blwm_caret_1 <anchor 351 30> mark @MC_blwm_caret_1;
 	pos base dottedCircle <anchor 322 30> mark @MC_blwm_caret_1;
+	pos base fl.ss01 <anchor 335 0> mark @MC_blwm_caret_1;
 	pos base uni0A15 <anchor 316 11> mark @MC_blwm_caret_1;
 	pos base uni0A16 <anchor 325 30> mark @MC_blwm_caret_1;
 	pos base uni0A18 <anchor 435 30> mark @MC_blwm_caret_1;

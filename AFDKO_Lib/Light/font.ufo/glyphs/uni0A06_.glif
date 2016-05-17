@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0A06" format="1">
-  <advance width="1087"/>
+  <advance width="1088"/>
   <unicode hex="0A06"/>
   <outline>
     <contour>
@@ -13,12 +13,6 @@
       <point x="943" y="675" type="move" name="abvm"/>
     </contour>
     <component base="uni0A05"/>
-    <component base="uni0A3E" xOffset="830"/>
+    <component base="uni0A3E" xOffset="831"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 22:34:59</string>
-    </dict>
-  </lib>
 </glyph>

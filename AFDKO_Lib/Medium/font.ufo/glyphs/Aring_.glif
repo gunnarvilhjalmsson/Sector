@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="1">
+  <advance width="747"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="442" y="772" type="curve" smooth="yes"/>
+      <point x="442" y="738"/>
+      <point x="412" y="711"/>
+      <point x="376" y="711" type="curve" smooth="yes"/>
+      <point x="340" y="711"/>
+      <point x="311" y="738"/>
+      <point x="311" y="772" type="curve" smooth="yes"/>
+      <point x="311" y="806"/>
+      <point x="340" y="834"/>
+      <point x="376" y="834" type="curve" smooth="yes"/>
+      <point x="412" y="834"/>
+      <point x="442" y="806"/>
+    </contour>
+    <contour>
+      <point x="372.0" y="557" type="line"/>
+      <point x="494.45601" y="263" type="line"/>
+      <point x="249.01616" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="0" type="line"/>
+      <point x="748.0" y="0" type="line"/>
+      <point x="454.85982" y="677.22154" type="line"/>
+      <point x="482.360390969" y="699.765944432"/>
+      <point x="500.0" y="733.835517596"/>
+      <point x="500.0" y="772.0" type="curve" smooth="yes"/>
+      <point x="500" y="840"/>
+      <point x="444" y="895"/>
+      <point x="376" y="895" type="curve" smooth="yes"/>
+      <point x="307" y="895"/>
+      <point x="252" y="840"/>
+      <point x="252" y="772" type="curve" smooth="yes"/>
+      <point x="252.0" y="733.745329019"/>
+      <point x="269.406594259" y="699.604943953"/>
+      <point x="296.91999" y="677.09089" type="curve"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="200.91023" y="148" type="line"/>
+      <point x="542.35548" y="148" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

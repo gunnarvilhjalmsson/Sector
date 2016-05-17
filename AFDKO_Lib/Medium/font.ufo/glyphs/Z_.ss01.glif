@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z.ss01" format="1">
+  <advance width="668"/>
+  <outline>
+    <contour>
+      <point x="334" y="700" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="634" y="117.0" type="line"/>
+      <point x="216.0" y="117.0" type="line"/>
+      <point x="369.34151" y="299" type="line"/>
+      <point x="540" y="299" type="line"/>
+      <point x="540" y="400.0" type="line"/>
+      <point x="454.43763" y="400.0" type="line"/>
+      <point x="628" y="606" type="line"/>
+      <point x="628" y="700.0" type="line"/>
+      <point x="48.0" y="700.0" type="line"/>
+      <point x="48.0" y="583" type="line"/>
+      <point x="448.0" y="583" type="line"/>
+      <point x="293.125" y="400.0" type="line"/>
+      <point x="118.0" y="400.0" type="line"/>
+      <point x="118.0" y="298" type="line"/>
+      <point x="206.80123" y="298" type="line"/>
+      <point x="35" y="95.0" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="633" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Z</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Z</string>
+    </dict>
+  </lib>
+</glyph>

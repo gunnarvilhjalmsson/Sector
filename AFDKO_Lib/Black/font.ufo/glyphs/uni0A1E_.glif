@@ -76,8 +76,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/02 21:44:59</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>va-gurmukhi</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

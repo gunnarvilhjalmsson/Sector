@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.dnom" format="1">
+  <advance width="456"/>
+  <outline>
+    <contour>
+      <point x="28" y="210" type="curve" smooth="yes"/>
+      <point x="28" y="79"/>
+      <point x="107" y="-4"/>
+      <point x="229" y="-4" type="curve" smooth="yes"/>
+      <point x="351" y="-4"/>
+      <point x="429" y="79"/>
+      <point x="429" y="210" type="curve" smooth="yes"/>
+      <point x="429" y="340"/>
+      <point x="351" y="423"/>
+      <point x="229" y="423" type="curve" smooth="yes"/>
+      <point x="107" y="423"/>
+      <point x="28" y="340"/>
+    </contour>
+    <contour>
+      <point x="302" y="210" type="curve" smooth="yes"/>
+      <point x="302" y="144"/>
+      <point x="274" y="103"/>
+      <point x="228" y="103" type="curve" smooth="yes"/>
+      <point x="183" y="103"/>
+      <point x="155" y="144"/>
+      <point x="155" y="210" type="curve" smooth="yes"/>
+      <point x="155" y="275"/>
+      <point x="183" y="316"/>
+      <point x="228" y="316" type="curve" smooth="yes"/>
+      <point x="274" y="316"/>
+      <point x="302" y="275"/>
+    </contour>
+  </outline>
+</glyph>

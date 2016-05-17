@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A30.blwf" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="_blwm"/>
+    </contour>
+    <contour>
+      <point x="243.0" y="-296" type="line"/>
+      <point x="258" y="-271" type="line"/>
+      <point x="15.0" y="-97.0" type="line"/>
+      <point x="15.0" y="-10" type="line"/>
+      <point x="-14.0" y="-10" type="line"/>
+      <point x="-14.0" y="-85.87447" type="line"/>
+      <point x="-24.5338399553" y="-83.9566770289"/>
+      <point x="-37.092735177" y="-83.0"/>
+      <point x="-53.0" y="-83.0" type="curve" smooth="yes"/>
+      <point x="-76" y="-83"/>
+      <point x="-110" y="-85"/>
+      <point x="-142" y="-91" type="curve"/>
+      <point x="-141" y="-118.0" type="line"/>
+      <point x="-120" y="-123"/>
+      <point x="-89" y="-126"/>
+      <point x="-59" y="-126" type="curve" smooth="yes"/>
+      <point x="-40.9029213998" y="-126.0"/>
+      <point x="-21.7578291872" y="-124.427979581"/>
+      <point x="-5.73724" y="-118.99597" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="1089"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="767" y="0" type="move" name="blwm"/>
+    </contour>
+    <contour>
+      <point x="1025" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="545" y="699" type="move" name="abvm"/>
+    </contour>
+    <contour>
+      <point x="409.0" y="19" type="line"/>
+      <point x="222" y="19"/>
+      <point x="69" y="168"/>
+      <point x="69" y="350" type="curve" smooth="yes"/>
+      <point x="69" y="532"/>
+      <point x="222" y="680"/>
+      <point x="409" y="680" type="curve"/>
+      <point x="573" y="680" type="line"/>
+      <point x="573" y="17.05917" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="0" type="curve"/>
+      <point x="1024" y="0" type="line"/>
+      <point x="1024" y="20" type="line"/>
+      <point x="593" y="20" type="line"/>
+      <point x="593" y="350.0" type="line"/>
+      <point x="964.0" y="350.0" type="line"/>
+      <point x="964.0" y="370.0" type="line"/>
+      <point x="593" y="370.0" type="line"/>
+      <point x="593" y="679" type="line"/>
+      <point x="1010.0" y="679" type="line"/>
+      <point x="1010.0" y="699.0" type="line"/>
+      <point x="409.0" y="699.0" type="line"/>
+      <point x="212" y="699"/>
+      <point x="50" y="542"/>
+      <point x="50" y="350" type="curve" smooth="yes"/>
+      <point x="50" y="158"/>
+      <point x="212" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>
